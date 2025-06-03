@@ -1,0 +1,3507 @@
+[
+  {
+    "id": 1,
+    "title": "Clavicle Fracture Protocol",
+    "summary": "Imaging and follow-up strategies.",
+    "details": "Apply sterile dressing, initiate tetanus prophylaxis. Use splint or immobilization where appropriate.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 2,
+    "title": "Blunt Abdominal Trauma Protocol",
+    "summary": "Initial evaluation and stabilization protocol.",
+    "details": "Secure airway, apply high-flow oxygen, and prepare for potential intubation. Monitor ABG and lactate levels.",
+    "injury_type": "Abdomen"
+  },
+  {
+    "id": 3,
+    "title": "Cardiac Tamponade Protocol",
+    "summary": "Initial evaluation and stabilization protocol.",
+    "details": "Document time of injury, mechanism, and initial findings. Communicate with receiving facility for transfer.",
+    "injury_type": "Cardiac"
+  },
+  {
+    "id": 4,
+    "title": "Patella Fracture Protocol",
+    "summary": "Operative vs. non-operative management criteria.",
+    "details": "Administer IV fluids, analgesics, and prophylactic antibiotics. Monitor vitals and reassess every 15 minutes.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 5,
+    "title": "Esophageal Injury Protocol",
+    "summary": "Wound care and infection prevention.",
+    "details": "Administer IV fluids, analgesics, and prophylactic antibiotics. Monitor vitals and reassess every 15 minutes.",
+    "injury_type": "GI"
+  },
+  {
+    "id": 6,
+    "title": "Spinal Cord Injury Protocol",
+    "summary": "Postoperative observation and care standards.",
+    "details": "Insert Foley catheter and NG tube as indicated. Maintain spinal precautions and monitor for neurological changes.",
+    "injury_type": "Spine"
+  },
+  {
+    "id": 7,
+    "title": "Blunt Abdominal Trauma Protocol",
+    "summary": "Transfer and referral guidelines.",
+    "details": "Use ultrasound (FAST) to identify internal bleeding. Activate massive transfusion protocol if required.",
+    "injury_type": "Abdomen"
+  },
+  {
+    "id": 8,
+    "title": "Cardiac Tamponade Protocol",
+    "summary": "Pharmacologic and non-pharmacologic interventions.",
+    "details": "Secure airway, apply high-flow oxygen, and prepare for potential intubation. Monitor ABG and lactate levels.",
+    "injury_type": "Cardiac"
+  },
+  {
+    "id": 9,
+    "title": "Crush Injury Protocol",
+    "summary": "Neurovascular assessment and monitoring.",
+    "details": "Insert Foley catheter and NG tube as indicated. Maintain spinal precautions and monitor for neurological changes.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 10,
+    "title": "Gunshot Wound Protocol",
+    "summary": "Pharmacologic and non-pharmacologic interventions.",
+    "details": "Elevate affected limb, apply cold compress, and initiate pain management protocol. Avoid delays in intervention.",
+    "injury_type": "Penetrating Trauma"
+  },
+  {
+    "id": 11,
+    "title": "Chemical Exposure Protocol",
+    "summary": "Postoperative observation and care standards.",
+    "details": "Administer IV fluids, analgesics, and prophylactic antibiotics. Monitor vitals and reassess every 15 minutes.",
+    "injury_type": "Burn"
+  },
+  {
+    "id": 12,
+    "title": "Anaphylaxis Protocol",
+    "summary": "Operative vs. non-operative management criteria.",
+    "details": "Administer IV fluids, analgesics, and prophylactic antibiotics. Monitor vitals and reassess every 15 minutes.",
+    "injury_type": "Systemic"
+  },
+  {
+    "id": 13,
+    "title": "Aortic Dissection Protocol",
+    "summary": "Transfer and referral guidelines.",
+    "details": "Document time of injury, mechanism, and initial findings. Communicate with receiving facility for transfer.",
+    "injury_type": "Cardiac"
+  },
+  {
+    "id": 14,
+    "title": "Facial Trauma Protocol",
+    "summary": "Pharmacologic and non-pharmacologic interventions.",
+    "details": "Elevate affected limb, apply cold compress, and initiate pain management protocol. Avoid delays in intervention.",
+    "injury_type": "Head"
+  },
+  {
+    "id": 15,
+    "title": "Traumatic Brain Injury Protocol",
+    "summary": "Imaging and follow-up strategies.",
+    "details": "Secure airway, apply high-flow oxygen, and prepare for potential intubation. Monitor ABG and lactate levels.",
+    "injury_type": "Head"
+  },
+  {
+    "id": 16,
+    "title": "Patella Fracture Protocol",
+    "summary": "Neurovascular assessment and monitoring.",
+    "details": "If GCS <8, intubate. Initiate seizure prophylaxis, monitor ICP and cerebral perfusion pressure closely.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 17,
+    "title": "Traumatic Brain Injury Protocol",
+    "summary": "Pharmacologic and non-pharmacologic interventions.",
+    "details": "Elevate affected limb, apply cold compress, and initiate pain management protocol. Avoid delays in intervention.",
+    "injury_type": "Head"
+  },
+  {
+    "id": 18,
+    "title": "Hip Dislocation Protocol",
+    "summary": "Analgesia and sedation management plan.",
+    "details": "Perform physical assessment, initiate ABCs, obtain relevant imaging and labs. Begin resuscitation as needed.",
+    "injury_type": "Pelvis"
+  },
+  {
+    "id": 19,
+    "title": "Dental Trauma Protocol",
+    "summary": "Analgesia and sedation management plan.",
+    "details": "Apply sterile dressing, initiate tetanus prophylaxis. Use splint or immobilization where appropriate.",
+    "injury_type": "Head"
+  },
+  {
+    "id": 20,
+    "title": "Tibia/Fibula Fracture Protocol",
+    "summary": "Wound care and infection prevention.",
+    "details": "Document time of injury, mechanism, and initial findings. Communicate with receiving facility for transfer.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 21,
+    "title": "Diaphragmatic Rupture Protocol",
+    "summary": "Initial evaluation and stabilization protocol.",
+    "details": "Secure airway, apply high-flow oxygen, and prepare for potential intubation. Monitor ABG and lactate levels.",
+    "injury_type": "Thoracic"
+  },
+  {
+    "id": 22,
+    "title": "Frostbite Protocol",
+    "summary": "Operative vs. non-operative management criteria.",
+    "details": "Secure airway, apply high-flow oxygen, and prepare for potential intubation. Monitor ABG and lactate levels.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 23,
+    "title": "Flail Chest Protocol",
+    "summary": "Wound care and infection prevention.",
+    "details": "Insert Foley catheter and NG tube as indicated. Maintain spinal precautions and monitor for neurological changes.",
+    "injury_type": "Chest"
+  },
+  {
+    "id": 24,
+    "title": "Blunt Abdominal Trauma Protocol",
+    "summary": "Emergency airway and resuscitation techniques.",
+    "details": "Administer IV fluids, analgesics, and prophylactic antibiotics. Monitor vitals and reassess every 15 minutes.",
+    "injury_type": "Abdomen"
+  },
+  {
+    "id": 25,
+    "title": "Tibia/Fibula Fracture Protocol",
+    "summary": "Neurovascular assessment and monitoring.",
+    "details": "Document time of injury, mechanism, and initial findings. Communicate with receiving facility for transfer.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 26,
+    "title": "Hip Dislocation Protocol",
+    "summary": "Imaging and follow-up strategies.",
+    "details": "Secure airway, apply high-flow oxygen, and prepare for potential intubation. Monitor ABG and lactate levels.",
+    "injury_type": "Pelvis"
+  },
+  {
+    "id": 27,
+    "title": "Pelvic Fracture Protocol",
+    "summary": "Postoperative observation and care standards.",
+    "details": "Insert Foley catheter and NG tube as indicated. Maintain spinal precautions and monitor for neurological changes.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 28,
+    "title": "Clavicle Fracture Protocol",
+    "summary": "Neurovascular assessment and monitoring.",
+    "details": "Document time of injury, mechanism, and initial findings. Communicate with receiving facility for transfer.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 29,
+    "title": "Drowning Protocol",
+    "summary": "Transfer and referral guidelines.",
+    "details": "Secure airway, apply high-flow oxygen, and prepare for potential intubation. Monitor ABG and lactate levels.",
+    "injury_type": "Respiratory"
+  },
+  {
+    "id": 30,
+    "title": "Dental Trauma Protocol",
+    "summary": "Emergency airway and resuscitation techniques.",
+    "details": "Elevate affected limb, apply cold compress, and initiate pain management protocol. Avoid delays in intervention.",
+    "injury_type": "Head"
+  },
+  {
+    "id": 31,
+    "title": "Pelvic Fracture Protocol",
+    "summary": "Emergency airway and resuscitation techniques.",
+    "details": "Insert Foley catheter and NG tube as indicated. Maintain spinal precautions and monitor for neurological changes.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 32,
+    "title": "Elbow Injury Protocol",
+    "summary": "Operative vs. non-operative management criteria.",
+    "details": "Perform physical assessment, initiate ABCs, obtain relevant imaging and labs. Begin resuscitation as needed.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 33,
+    "title": "Retroperitoneal Hematoma Protocol",
+    "summary": "Emergency airway and resuscitation techniques.",
+    "details": "Document time of injury, mechanism, and initial findings. Communicate with receiving facility for transfer.",
+    "injury_type": "Abdomen"
+  },
+  {
+    "id": 34,
+    "title": "Pneumothorax Protocol",
+    "summary": "Postoperative observation and care standards.",
+    "details": "Use ultrasound (FAST) to identify internal bleeding. Activate massive transfusion protocol if required.",
+    "injury_type": "Chest"
+  },
+  {
+    "id": 35,
+    "title": "Chest Trauma Protocol",
+    "summary": "Transfer and referral guidelines.",
+    "details": "Administer IV fluids, analgesics, and prophylactic antibiotics. Monitor vitals and reassess every 15 minutes.",
+    "injury_type": "Chest"
+  },
+  {
+    "id": 36,
+    "title": "Pelvic Fracture Protocol",
+    "summary": "Imaging and follow-up strategies.",
+    "details": "Secure airway, apply high-flow oxygen, and prepare for potential intubation. Monitor ABG and lactate levels.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 37,
+    "title": "Anaphylaxis Protocol",
+    "summary": "Initial evaluation and stabilization protocol.",
+    "details": "Perform physical assessment, initiate ABCs, obtain relevant imaging and labs. Begin resuscitation as needed.",
+    "injury_type": "Systemic"
+  },
+  {
+    "id": 38,
+    "title": "Gunshot Wound Protocol",
+    "summary": "Neurovascular assessment and monitoring.",
+    "details": "Use ultrasound (FAST) to identify internal bleeding. Activate massive transfusion protocol if required.",
+    "injury_type": "Penetrating Trauma"
+  },
+  {
+    "id": 39,
+    "title": "Eclampsia Protocol",
+    "summary": "Initial evaluation and stabilization protocol.",
+    "details": "Insert Foley catheter and NG tube as indicated. Maintain spinal precautions and monitor for neurological changes.",
+    "injury_type": "Obstetric"
+  },
+  {
+    "id": 40,
+    "title": "Drowning Protocol",
+    "summary": "Operative vs. non-operative management criteria.",
+    "details": "Apply sterile dressing, initiate tetanus prophylaxis. Use splint or immobilization where appropriate.",
+    "injury_type": "Respiratory"
+  },
+  {
+    "id": 41,
+    "title": "Pneumothorax Protocol",
+    "summary": "Neurovascular assessment and monitoring.",
+    "details": "Administer IV fluids, analgesics, and prophylactic antibiotics. Monitor vitals and reassess every 15 minutes.",
+    "injury_type": "Chest"
+  },
+  {
+    "id": 42,
+    "title": "Eclampsia Protocol",
+    "summary": "Neurovascular assessment and monitoring.",
+    "details": "Apply sterile dressing, initiate tetanus prophylaxis. Use splint or immobilization where appropriate.",
+    "injury_type": "Obstetric"
+  },
+  {
+    "id": 43,
+    "title": "Retroperitoneal Hematoma Protocol",
+    "summary": "Initial evaluation and stabilization protocol.",
+    "details": "If GCS <8, intubate. Initiate seizure prophylaxis, monitor ICP and cerebral perfusion pressure closely.",
+    "injury_type": "Abdomen"
+  },
+  {
+    "id": 44,
+    "title": "Kidney Injury Protocol",
+    "summary": "Postoperative observation and care standards.",
+    "details": "Document time of injury, mechanism, and initial findings. Communicate with receiving facility for transfer.",
+    "injury_type": "Abdomen"
+  },
+  {
+    "id": 45,
+    "title": "Spleen Injury Protocol",
+    "summary": "Imaging and follow-up strategies.",
+    "details": "Use ultrasound (FAST) to identify internal bleeding. Activate massive transfusion protocol if required.",
+    "injury_type": "Abdomen"
+  },
+  {
+    "id": 46,
+    "title": "Gunshot Wound Protocol",
+    "summary": "Operative vs. non-operative management criteria.",
+    "details": "Document time of injury, mechanism, and initial findings. Communicate with receiving facility for transfer.",
+    "injury_type": "Penetrating Trauma"
+  },
+  {
+    "id": 47,
+    "title": "Open Fracture Protocol",
+    "summary": "Emergency airway and resuscitation techniques.",
+    "details": "Administer IV fluids, analgesics, and prophylactic antibiotics. Monitor vitals and reassess every 15 minutes.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 48,
+    "title": "Penetrating Neck Injury Protocol",
+    "summary": "Pharmacologic and non-pharmacologic interventions.",
+    "details": "Elevate affected limb, apply cold compress, and initiate pain management protocol. Avoid delays in intervention.",
+    "injury_type": "Neck"
+  },
+  {
+    "id": 49,
+    "title": "Liver Laceration Protocol",
+    "summary": "Initial evaluation and stabilization protocol.",
+    "details": "Perform physical assessment, initiate ABCs, obtain relevant imaging and labs. Begin resuscitation as needed.",
+    "injury_type": "Abdomen"
+  },
+  {
+    "id": 50,
+    "title": "Spleen Injury Protocol",
+    "summary": "Wound care and infection prevention.",
+    "details": "Insert Foley catheter and NG tube as indicated. Maintain spinal precautions and monitor for neurological changes.",
+    "injury_type": "Abdomen"
+  },
+  {
+    "id": 51,
+    "title": "Traumatic Amputation Protocol",
+    "summary": "Wound care and infection prevention.",
+    "details": "Prepare for OR if unstable. Consult trauma, ortho, or neuro teams depending on injury site.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 52,
+    "title": "Pneumothorax Protocol",
+    "summary": "Transfer and referral guidelines.",
+    "details": "Perform physical assessment, initiate ABCs, obtain relevant imaging and labs. Begin resuscitation as needed.",
+    "injury_type": "Chest"
+  },
+  {
+    "id": 53,
+    "title": "Aortic Dissection Protocol",
+    "summary": "Emergency airway and resuscitation techniques.",
+    "details": "Use ultrasound (FAST) to identify internal bleeding. Activate massive transfusion protocol if required.",
+    "injury_type": "Cardiac"
+  },
+  {
+    "id": 54,
+    "title": "Shoulder Dislocation Protocol",
+    "summary": "Analgesia and sedation management plan.",
+    "details": "Apply sterile dressing, initiate tetanus prophylaxis. Use splint or immobilization where appropriate.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 55,
+    "title": "Burn Protocol",
+    "summary": "Operative vs. non-operative management criteria.",
+    "details": "Secure airway, apply high-flow oxygen, and prepare for potential intubation. Monitor ABG and lactate levels.",
+    "injury_type": "Burn"
+  },
+  {
+    "id": 56,
+    "title": "Elbow Injury Protocol",
+    "summary": "Emergency airway and resuscitation techniques.",
+    "details": "Administer IV fluids, analgesics, and prophylactic antibiotics. Monitor vitals and reassess every 15 minutes.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 57,
+    "title": "Pelvic Fracture Protocol",
+    "summary": "Analgesia and sedation management plan.",
+    "details": "Apply sterile dressing, initiate tetanus prophylaxis. Use splint or immobilization where appropriate.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 58,
+    "title": "Kidney Injury Protocol",
+    "summary": "Initial evaluation and stabilization protocol.",
+    "details": "Insert Foley catheter and NG tube as indicated. Maintain spinal precautions and monitor for neurological changes.",
+    "injury_type": "Abdomen"
+  },
+  {
+    "id": 59,
+    "title": "Drowning Protocol",
+    "summary": "Analgesia and sedation management plan.",
+    "details": "Perform physical assessment, initiate ABCs, obtain relevant imaging and labs. Begin resuscitation as needed.",
+    "injury_type": "Respiratory"
+  },
+  {
+    "id": 60,
+    "title": "Gunshot Wound Protocol",
+    "summary": "Analgesia and sedation management plan.",
+    "details": "Secure airway, apply high-flow oxygen, and prepare for potential intubation. Monitor ABG and lactate levels.",
+    "injury_type": "Penetrating Trauma"
+  },
+  {
+    "id": 61,
+    "title": "Wrist Fracture Protocol",
+    "summary": "Postoperative observation and care standards.",
+    "details": "Insert Foley catheter and NG tube as indicated. Maintain spinal precautions and monitor for neurological changes.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 62,
+    "title": "Hypovolemic Shock Protocol",
+    "summary": "Postoperative observation and care standards.",
+    "details": "If GCS <8, intubate. Initiate seizure prophylaxis, monitor ICP and cerebral perfusion pressure closely.",
+    "injury_type": "Systemic"
+  },
+  {
+    "id": 63,
+    "title": "Orbital Fracture Protocol",
+    "summary": "Imaging and follow-up strategies.",
+    "details": "Administer IV fluids, analgesics, and prophylactic antibiotics. Monitor vitals and reassess every 15 minutes.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 64,
+    "title": "Maxillofacial Injury Protocol",
+    "summary": "Neurovascular assessment and monitoring.",
+    "details": "Use ultrasound (FAST) to identify internal bleeding. Activate massive transfusion protocol if required.",
+    "injury_type": "Head"
+  },
+  {
+    "id": 65,
+    "title": "Spleen Injury Protocol",
+    "summary": "Analgesia and sedation management plan.",
+    "details": "Use ultrasound (FAST) to identify internal bleeding. Activate massive transfusion protocol if required.",
+    "injury_type": "Abdomen"
+  },
+  {
+    "id": 66,
+    "title": "Anaphylaxis Protocol",
+    "summary": "Postoperative observation and care standards.",
+    "details": "Elevate affected limb, apply cold compress, and initiate pain management protocol. Avoid delays in intervention.",
+    "injury_type": "Systemic"
+  },
+  {
+    "id": 67,
+    "title": "Crush Injury Protocol",
+    "summary": "Postoperative observation and care standards.",
+    "details": "Perform physical assessment, initiate ABCs, obtain relevant imaging and labs. Begin resuscitation as needed.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 68,
+    "title": "Chest Trauma Protocol",
+    "summary": "Pharmacologic and non-pharmacologic interventions.",
+    "details": "Secure airway, apply high-flow oxygen, and prepare for potential intubation. Monitor ABG and lactate levels.",
+    "injury_type": "Chest"
+  },
+  {
+    "id": 69,
+    "title": "Maxillofacial Injury Protocol",
+    "summary": "Postoperative observation and care standards.",
+    "details": "Apply sterile dressing, initiate tetanus prophylaxis. Use splint or immobilization where appropriate.",
+    "injury_type": "Head"
+  },
+  {
+    "id": 70,
+    "title": "Facial Trauma Protocol",
+    "summary": "Imaging and follow-up strategies.",
+    "details": "Elevate affected limb, apply cold compress, and initiate pain management protocol. Avoid delays in intervention.",
+    "injury_type": "Head"
+  },
+  {
+    "id": 71,
+    "title": "Orbital Fracture Protocol",
+    "summary": "Pharmacologic and non-pharmacologic interventions.",
+    "details": "Perform physical assessment, initiate ABCs, obtain relevant imaging and labs. Begin resuscitation as needed.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 72,
+    "title": "Septic Shock Protocol",
+    "summary": "Operative vs. non-operative management criteria.",
+    "details": "Prepare for OR if unstable. Consult trauma, ortho, or neuro teams depending on injury site.",
+    "injury_type": "Systemic"
+  },
+  {
+    "id": 73,
+    "title": "Spleen Injury Protocol",
+    "summary": "Neurovascular assessment and monitoring.",
+    "details": "Prepare for OR if unstable. Consult trauma, ortho, or neuro teams depending on injury site.",
+    "injury_type": "Abdomen"
+  },
+  {
+    "id": 74,
+    "title": "Spleen Injury Protocol",
+    "summary": "Analgesia and sedation management plan.",
+    "details": "Use ultrasound (FAST) to identify internal bleeding. Activate massive transfusion protocol if required.",
+    "injury_type": "Abdomen"
+  },
+  {
+    "id": 75,
+    "title": "Open Fracture Protocol",
+    "summary": "Analgesia and sedation management plan.",
+    "details": "Secure airway, apply high-flow oxygen, and prepare for potential intubation. Monitor ABG and lactate levels.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 76,
+    "title": "Open Fracture Protocol",
+    "summary": "Analgesia and sedation management plan.",
+    "details": "Use ultrasound (FAST) to identify internal bleeding. Activate massive transfusion protocol if required.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 77,
+    "title": "Spinal Cord Injury Protocol",
+    "summary": "Postoperative observation and care standards.",
+    "details": "Use ultrasound (FAST) to identify internal bleeding. Activate massive transfusion protocol if required.",
+    "injury_type": "Spine"
+  },
+  {
+    "id": 78,
+    "title": "Traumatic Brain Injury Protocol",
+    "summary": "Neurovascular assessment and monitoring.",
+    "details": "Document time of injury, mechanism, and initial findings. Communicate with receiving facility for transfer.",
+    "injury_type": "Head"
+  },
+  {
+    "id": 79,
+    "title": "Orbital Fracture Protocol",
+    "summary": "Transfer and referral guidelines.",
+    "details": "If GCS <8, intubate. Initiate seizure prophylaxis, monitor ICP and cerebral perfusion pressure closely.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 80,
+    "title": "Tibia/Fibula Fracture Protocol",
+    "summary": "Transfer and referral guidelines.",
+    "details": "Insert Foley catheter and NG tube as indicated. Maintain spinal precautions and monitor for neurological changes.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 81,
+    "title": "Blunt Abdominal Trauma Protocol",
+    "summary": "Initial evaluation and stabilization protocol.",
+    "details": "Perform physical assessment, initiate ABCs, obtain relevant imaging and labs. Begin resuscitation as needed.",
+    "injury_type": "Abdomen"
+  },
+  {
+    "id": 82,
+    "title": "Septic Shock Protocol",
+    "summary": "Imaging and follow-up strategies.",
+    "details": "Insert Foley catheter and NG tube as indicated. Maintain spinal precautions and monitor for neurological changes.",
+    "injury_type": "Systemic"
+  },
+  {
+    "id": 83,
+    "title": "Maxillofacial Injury Protocol",
+    "summary": "Analgesia and sedation management plan.",
+    "details": "Prepare for OR if unstable. Consult trauma, ortho, or neuro teams depending on injury site.",
+    "injury_type": "Head"
+  },
+  {
+    "id": 84,
+    "title": "Shoulder Dislocation Protocol",
+    "summary": "Emergency airway and resuscitation techniques.",
+    "details": "Prepare for OR if unstable. Consult trauma, ortho, or neuro teams depending on injury site.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 85,
+    "title": "Retroperitoneal Hematoma Protocol",
+    "summary": "Analgesia and sedation management plan.",
+    "details": "Apply sterile dressing, initiate tetanus prophylaxis. Use splint or immobilization where appropriate.",
+    "injury_type": "Abdomen"
+  },
+  {
+    "id": 86,
+    "title": "Orbital Fracture Protocol",
+    "summary": "Postoperative observation and care standards.",
+    "details": "Insert Foley catheter and NG tube as indicated. Maintain spinal precautions and monitor for neurological changes.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 87,
+    "title": "Shoulder Dislocation Protocol",
+    "summary": "Analgesia and sedation management plan.",
+    "details": "Administer IV fluids, analgesics, and prophylactic antibiotics. Monitor vitals and reassess every 15 minutes.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 88,
+    "title": "Maxillofacial Injury Protocol",
+    "summary": "Analgesia and sedation management plan.",
+    "details": "Insert Foley catheter and NG tube as indicated. Maintain spinal precautions and monitor for neurological changes.",
+    "injury_type": "Head"
+  },
+  {
+    "id": 89,
+    "title": "Pelvic Fracture Protocol",
+    "summary": "Wound care and infection prevention.",
+    "details": "Perform physical assessment, initiate ABCs, obtain relevant imaging and labs. Begin resuscitation as needed.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 90,
+    "title": "Crush Injury Protocol",
+    "summary": "Pharmacologic and non-pharmacologic interventions.",
+    "details": "Prepare for OR if unstable. Consult trauma, ortho, or neuro teams depending on injury site.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 91,
+    "title": "Anaphylaxis Protocol",
+    "summary": "Postoperative observation and care standards.",
+    "details": "If GCS <8, intubate. Initiate seizure prophylaxis, monitor ICP and cerebral perfusion pressure closely.",
+    "injury_type": "Systemic"
+  },
+  {
+    "id": 92,
+    "title": "Drowning Protocol",
+    "summary": "Pharmacologic and non-pharmacologic interventions.",
+    "details": "Use ultrasound (FAST) to identify internal bleeding. Activate massive transfusion protocol if required.",
+    "injury_type": "Respiratory"
+  },
+  {
+    "id": 93,
+    "title": "Retroperitoneal Hematoma Protocol",
+    "summary": "Imaging and follow-up strategies.",
+    "details": "Use ultrasound (FAST) to identify internal bleeding. Activate massive transfusion protocol if required.",
+    "injury_type": "Abdomen"
+  },
+  {
+    "id": 94,
+    "title": "Kidney Injury Protocol",
+    "summary": "Transfer and referral guidelines.",
+    "details": "Administer IV fluids, analgesics, and prophylactic antibiotics. Monitor vitals and reassess every 15 minutes.",
+    "injury_type": "Abdomen"
+  },
+  {
+    "id": 95,
+    "title": "Open Fracture Protocol",
+    "summary": "Emergency airway and resuscitation techniques.",
+    "details": "Apply sterile dressing, initiate tetanus prophylaxis. Use splint or immobilization where appropriate.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 96,
+    "title": "Knee Dislocation Protocol",
+    "summary": "Neurovascular assessment and monitoring.",
+    "details": "Insert Foley catheter and NG tube as indicated. Maintain spinal precautions and monitor for neurological changes.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 97,
+    "title": "Elbow Injury Protocol",
+    "summary": "Neurovascular assessment and monitoring.",
+    "details": "Insert Foley catheter and NG tube as indicated. Maintain spinal precautions and monitor for neurological changes.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 98,
+    "title": "Septic Shock Protocol",
+    "summary": "Operative vs. non-operative management criteria.",
+    "details": "Administer IV fluids, analgesics, and prophylactic antibiotics. Monitor vitals and reassess every 15 minutes.",
+    "injury_type": "Systemic"
+  },
+  {
+    "id": 99,
+    "title": "Cardiac Tamponade Protocol",
+    "summary": "Emergency airway and resuscitation techniques.",
+    "details": "Administer IV fluids, analgesics, and prophylactic antibiotics. Monitor vitals and reassess every 15 minutes.",
+    "injury_type": "Cardiac"
+  },
+  {
+    "id": 100,
+    "title": "Penetrating Neck Injury Protocol",
+    "summary": "Emergency airway and resuscitation techniques.",
+    "details": "Perform physical assessment, initiate ABCs, obtain relevant imaging and labs. Begin resuscitation as needed.",
+    "injury_type": "Neck"
+  },
+  {
+    "id": 101,
+    "title": "Aortic Dissection Protocol",
+    "summary": "Wound care and infection prevention.",
+    "details": "Insert Foley catheter and NG tube as indicated. Maintain spinal precautions and monitor for neurological changes.",
+    "injury_type": "Cardiac"
+  },
+  {
+    "id": 102,
+    "title": "Spleen Injury Protocol",
+    "summary": "Initial evaluation and stabilization protocol.",
+    "details": "Insert Foley catheter and NG tube as indicated. Maintain spinal precautions and monitor for neurological changes.",
+    "injury_type": "Abdomen"
+  },
+  {
+    "id": 103,
+    "title": "Esophageal Injury Protocol",
+    "summary": "Pharmacologic and non-pharmacologic interventions.",
+    "details": "Apply sterile dressing, initiate tetanus prophylaxis. Use splint or immobilization where appropriate.",
+    "injury_type": "GI"
+  },
+  {
+    "id": 104,
+    "title": "Electrical Burn Protocol",
+    "summary": "Operative vs. non-operative management criteria.",
+    "details": "If GCS <8, intubate. Initiate seizure prophylaxis, monitor ICP and cerebral perfusion pressure closely.",
+    "injury_type": "Burn"
+  },
+  {
+    "id": 105,
+    "title": "Dental Trauma Protocol",
+    "summary": "Neurovascular assessment and monitoring.",
+    "details": "Secure airway, apply high-flow oxygen, and prepare for potential intubation. Monitor ABG and lactate levels.",
+    "injury_type": "Head"
+  },
+  {
+    "id": 106,
+    "title": "Pneumothorax Protocol",
+    "summary": "Postoperative observation and care standards.",
+    "details": "Administer IV fluids, analgesics, and prophylactic antibiotics. Monitor vitals and reassess every 15 minutes.",
+    "injury_type": "Chest"
+  },
+  {
+    "id": 107,
+    "title": "Flail Chest Protocol",
+    "summary": "Analgesia and sedation management plan.",
+    "details": "Document time of injury, mechanism, and initial findings. Communicate with receiving facility for transfer.",
+    "injury_type": "Chest"
+  },
+  {
+    "id": 108,
+    "title": "Electrical Burn Protocol",
+    "summary": "Wound care and infection prevention.",
+    "details": "Administer IV fluids, analgesics, and prophylactic antibiotics. Monitor vitals and reassess every 15 minutes.",
+    "injury_type": "Burn"
+  },
+  {
+    "id": 109,
+    "title": "Clavicle Fracture Protocol",
+    "summary": "Imaging and follow-up strategies.",
+    "details": "Document time of injury, mechanism, and initial findings. Communicate with receiving facility for transfer.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 110,
+    "title": "Septic Shock Protocol",
+    "summary": "Initial evaluation and stabilization protocol.",
+    "details": "Insert Foley catheter and NG tube as indicated. Maintain spinal precautions and monitor for neurological changes.",
+    "injury_type": "Systemic"
+  },
+  {
+    "id": 111,
+    "title": "Stab Wound Protocol",
+    "summary": "Pharmacologic and non-pharmacologic interventions.",
+    "details": "Prepare for OR if unstable. Consult trauma, ortho, or neuro teams depending on injury site.",
+    "injury_type": "Penetrating Trauma"
+  },
+  {
+    "id": 112,
+    "title": "Chemical Exposure Protocol",
+    "summary": "Emergency airway and resuscitation techniques.",
+    "details": "Insert Foley catheter and NG tube as indicated. Maintain spinal precautions and monitor for neurological changes.",
+    "injury_type": "Burn"
+  },
+  {
+    "id": 113,
+    "title": "Facial Trauma Protocol",
+    "summary": "Operative vs. non-operative management criteria.",
+    "details": "Elevate affected limb, apply cold compress, and initiate pain management protocol. Avoid delays in intervention.",
+    "injury_type": "Head"
+  },
+  {
+    "id": 114,
+    "title": "Elbow Injury Protocol",
+    "summary": "Imaging and follow-up strategies.",
+    "details": "Use ultrasound (FAST) to identify internal bleeding. Activate massive transfusion protocol if required.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 115,
+    "title": "Hemothorax Protocol",
+    "summary": "Analgesia and sedation management plan.",
+    "details": "Secure airway, apply high-flow oxygen, and prepare for potential intubation. Monitor ABG and lactate levels.",
+    "injury_type": "Chest"
+  },
+  {
+    "id": 116,
+    "title": "Traumatic Amputation Protocol",
+    "summary": "Postoperative observation and care standards.",
+    "details": "Secure airway, apply high-flow oxygen, and prepare for potential intubation. Monitor ABG and lactate levels.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 117,
+    "title": "Clavicle Fracture Protocol",
+    "summary": "Postoperative observation and care standards.",
+    "details": "Perform physical assessment, initiate ABCs, obtain relevant imaging and labs. Begin resuscitation as needed.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 118,
+    "title": "Dental Trauma Protocol",
+    "summary": "Postoperative observation and care standards.",
+    "details": "Document time of injury, mechanism, and initial findings. Communicate with receiving facility for transfer.",
+    "injury_type": "Head"
+  },
+  {
+    "id": 119,
+    "title": "Aortic Dissection Protocol",
+    "summary": "Wound care and infection prevention.",
+    "details": "Use ultrasound (FAST) to identify internal bleeding. Activate massive transfusion protocol if required.",
+    "injury_type": "Cardiac"
+  },
+  {
+    "id": 120,
+    "title": "Spinal Cord Injury Protocol",
+    "summary": "Pharmacologic and non-pharmacologic interventions.",
+    "details": "Document time of injury, mechanism, and initial findings. Communicate with receiving facility for transfer.",
+    "injury_type": "Spine"
+  },
+  {
+    "id": 121,
+    "title": "Crush Injury Protocol",
+    "summary": "Wound care and infection prevention.",
+    "details": "Insert Foley catheter and NG tube as indicated. Maintain spinal precautions and monitor for neurological changes.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 122,
+    "title": "Pelvic Fracture Protocol",
+    "summary": "Pharmacologic and non-pharmacologic interventions.",
+    "details": "Use ultrasound (FAST) to identify internal bleeding. Activate massive transfusion protocol if required.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 123,
+    "title": "Traumatic Brain Injury Protocol",
+    "summary": "Initial evaluation and stabilization protocol.",
+    "details": "Document time of injury, mechanism, and initial findings. Communicate with receiving facility for transfer.",
+    "injury_type": "Head"
+  },
+  {
+    "id": 124,
+    "title": "Esophageal Injury Protocol",
+    "summary": "Neurovascular assessment and monitoring.",
+    "details": "Perform physical assessment, initiate ABCs, obtain relevant imaging and labs. Begin resuscitation as needed.",
+    "injury_type": "GI"
+  },
+  {
+    "id": 125,
+    "title": "Hemothorax Protocol",
+    "summary": "Wound care and infection prevention.",
+    "details": "Document time of injury, mechanism, and initial findings. Communicate with receiving facility for transfer.",
+    "injury_type": "Chest"
+  },
+  {
+    "id": 126,
+    "title": "Wrist Fracture Protocol",
+    "summary": "Neurovascular assessment and monitoring.",
+    "details": "Prepare for OR if unstable. Consult trauma, ortho, or neuro teams depending on injury site.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 127,
+    "title": "Clavicle Fracture Protocol",
+    "summary": "Pharmacologic and non-pharmacologic interventions.",
+    "details": "Perform physical assessment, initiate ABCs, obtain relevant imaging and labs. Begin resuscitation as needed.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 128,
+    "title": "Burn Protocol",
+    "summary": "Neurovascular assessment and monitoring.",
+    "details": "Apply sterile dressing, initiate tetanus prophylaxis. Use splint or immobilization where appropriate.",
+    "injury_type": "Burn"
+  },
+  {
+    "id": 129,
+    "title": "Hip Dislocation Protocol",
+    "summary": "Wound care and infection prevention.",
+    "details": "If GCS <8, intubate. Initiate seizure prophylaxis, monitor ICP and cerebral perfusion pressure closely.",
+    "injury_type": "Pelvis"
+  },
+  {
+    "id": 130,
+    "title": "Esophageal Injury Protocol",
+    "summary": "Emergency airway and resuscitation techniques.",
+    "details": "Secure airway, apply high-flow oxygen, and prepare for potential intubation. Monitor ABG and lactate levels.",
+    "injury_type": "GI"
+  },
+  {
+    "id": 131,
+    "title": "Hand Injury Protocol",
+    "summary": "Analgesia and sedation management plan.",
+    "details": "Perform physical assessment, initiate ABCs, obtain relevant imaging and labs. Begin resuscitation as needed.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 132,
+    "title": "Retroperitoneal Hematoma Protocol",
+    "summary": "Emergency airway and resuscitation techniques.",
+    "details": "Use ultrasound (FAST) to identify internal bleeding. Activate massive transfusion protocol if required.",
+    "injury_type": "Abdomen"
+  },
+  {
+    "id": 133,
+    "title": "Hand Injury Protocol",
+    "summary": "Initial evaluation and stabilization protocol.",
+    "details": "Prepare for OR if unstable. Consult trauma, ortho, or neuro teams depending on injury site.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 134,
+    "title": "Flail Chest Protocol",
+    "summary": "Operative vs. non-operative management criteria.",
+    "details": "If GCS <8, intubate. Initiate seizure prophylaxis, monitor ICP and cerebral perfusion pressure closely.",
+    "injury_type": "Chest"
+  },
+  {
+    "id": 135,
+    "title": "Chest Trauma Protocol",
+    "summary": "Neurovascular assessment and monitoring.",
+    "details": "If GCS <8, intubate. Initiate seizure prophylaxis, monitor ICP and cerebral perfusion pressure closely.",
+    "injury_type": "Chest"
+  },
+  {
+    "id": 136,
+    "title": "Patella Fracture Protocol",
+    "summary": "Imaging and follow-up strategies.",
+    "details": "Insert Foley catheter and NG tube as indicated. Maintain spinal precautions and monitor for neurological changes.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 137,
+    "title": "Septic Shock Protocol",
+    "summary": "Postoperative observation and care standards.",
+    "details": "Insert Foley catheter and NG tube as indicated. Maintain spinal precautions and monitor for neurological changes.",
+    "injury_type": "Systemic"
+  },
+  {
+    "id": 138,
+    "title": "Elbow Injury Protocol",
+    "summary": "Operative vs. non-operative management criteria.",
+    "details": "Elevate affected limb, apply cold compress, and initiate pain management protocol. Avoid delays in intervention.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 139,
+    "title": "Drowning Protocol",
+    "summary": "Analgesia and sedation management plan.",
+    "details": "Secure airway, apply high-flow oxygen, and prepare for potential intubation. Monitor ABG and lactate levels.",
+    "injury_type": "Respiratory"
+  },
+  {
+    "id": 140,
+    "title": "Femur Fracture Protocol",
+    "summary": "Imaging and follow-up strategies.",
+    "details": "Use ultrasound (FAST) to identify internal bleeding. Activate massive transfusion protocol if required.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 141,
+    "title": "Eclampsia Protocol",
+    "summary": "Emergency airway and resuscitation techniques.",
+    "details": "Prepare for OR if unstable. Consult trauma, ortho, or neuro teams depending on injury site.",
+    "injury_type": "Obstetric"
+  },
+  {
+    "id": 142,
+    "title": "Eclampsia Protocol",
+    "summary": "Postoperative observation and care standards.",
+    "details": "Administer IV fluids, analgesics, and prophylactic antibiotics. Monitor vitals and reassess every 15 minutes.",
+    "injury_type": "Obstetric"
+  },
+  {
+    "id": 143,
+    "title": "Knee Dislocation Protocol",
+    "summary": "Imaging and follow-up strategies.",
+    "details": "Elevate affected limb, apply cold compress, and initiate pain management protocol. Avoid delays in intervention.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 144,
+    "title": "Flail Chest Protocol",
+    "summary": "Transfer and referral guidelines.",
+    "details": "Insert Foley catheter and NG tube as indicated. Maintain spinal precautions and monitor for neurological changes.",
+    "injury_type": "Chest"
+  },
+  {
+    "id": 145,
+    "title": "Burn Protocol",
+    "summary": "Transfer and referral guidelines.",
+    "details": "Apply sterile dressing, initiate tetanus prophylaxis. Use splint or immobilization where appropriate.",
+    "injury_type": "Burn"
+  },
+  {
+    "id": 146,
+    "title": "Dental Trauma Protocol",
+    "summary": "Transfer and referral guidelines.",
+    "details": "Secure airway, apply high-flow oxygen, and prepare for potential intubation. Monitor ABG and lactate levels.",
+    "injury_type": "Head"
+  },
+  {
+    "id": 147,
+    "title": "Chest Trauma Protocol",
+    "summary": "Analgesia and sedation management plan.",
+    "details": "Secure airway, apply high-flow oxygen, and prepare for potential intubation. Monitor ABG and lactate levels.",
+    "injury_type": "Chest"
+  },
+  {
+    "id": 148,
+    "title": "Burn Protocol",
+    "summary": "Wound care and infection prevention.",
+    "details": "Apply sterile dressing, initiate tetanus prophylaxis. Use splint or immobilization where appropriate.",
+    "injury_type": "Burn"
+  },
+  {
+    "id": 149,
+    "title": "Esophageal Injury Protocol",
+    "summary": "Emergency airway and resuscitation techniques.",
+    "details": "If GCS <8, intubate. Initiate seizure prophylaxis, monitor ICP and cerebral perfusion pressure closely.",
+    "injury_type": "GI"
+  },
+  {
+    "id": 150,
+    "title": "Frostbite Protocol",
+    "summary": "Initial evaluation and stabilization protocol.",
+    "details": "Prepare for OR if unstable. Consult trauma, ortho, or neuro teams depending on injury site.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 151,
+    "title": "Traumatic Amputation Protocol",
+    "summary": "Pharmacologic and non-pharmacologic interventions.",
+    "details": "Document time of injury, mechanism, and initial findings. Communicate with receiving facility for transfer.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 152,
+    "title": "Frostbite Protocol",
+    "summary": "Wound care and infection prevention.",
+    "details": "Document time of injury, mechanism, and initial findings. Communicate with receiving facility for transfer.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 153,
+    "title": "Blunt Abdominal Trauma Protocol",
+    "summary": "Operative vs. non-operative management criteria.",
+    "details": "Apply sterile dressing, initiate tetanus prophylaxis. Use splint or immobilization where appropriate.",
+    "injury_type": "Abdomen"
+  },
+  {
+    "id": 154,
+    "title": "Hemothorax Protocol",
+    "summary": "Transfer and referral guidelines.",
+    "details": "Prepare for OR if unstable. Consult trauma, ortho, or neuro teams depending on injury site.",
+    "injury_type": "Chest"
+  },
+  {
+    "id": 155,
+    "title": "Liver Laceration Protocol",
+    "summary": "Wound care and infection prevention.",
+    "details": "Insert Foley catheter and NG tube as indicated. Maintain spinal precautions and monitor for neurological changes.",
+    "injury_type": "Abdomen"
+  },
+  {
+    "id": 156,
+    "title": "Traumatic Brain Injury Protocol",
+    "summary": "Pharmacologic and non-pharmacologic interventions.",
+    "details": "Document time of injury, mechanism, and initial findings. Communicate with receiving facility for transfer.",
+    "injury_type": "Head"
+  },
+  {
+    "id": 157,
+    "title": "Drowning Protocol",
+    "summary": "Initial evaluation and stabilization protocol.",
+    "details": "If GCS <8, intubate. Initiate seizure prophylaxis, monitor ICP and cerebral perfusion pressure closely.",
+    "injury_type": "Respiratory"
+  },
+  {
+    "id": 158,
+    "title": "Stab Wound Protocol",
+    "summary": "Wound care and infection prevention.",
+    "details": "Elevate affected limb, apply cold compress, and initiate pain management protocol. Avoid delays in intervention.",
+    "injury_type": "Penetrating Trauma"
+  },
+  {
+    "id": 159,
+    "title": "Gunshot Wound Protocol",
+    "summary": "Wound care and infection prevention.",
+    "details": "Document time of injury, mechanism, and initial findings. Communicate with receiving facility for transfer.",
+    "injury_type": "Penetrating Trauma"
+  },
+  {
+    "id": 160,
+    "title": "Femur Fracture Protocol",
+    "summary": "Operative vs. non-operative management criteria.",
+    "details": "Perform physical assessment, initiate ABCs, obtain relevant imaging and labs. Begin resuscitation as needed.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 161,
+    "title": "Cardiac Tamponade Protocol",
+    "summary": "Transfer and referral guidelines.",
+    "details": "If GCS <8, intubate. Initiate seizure prophylaxis, monitor ICP and cerebral perfusion pressure closely.",
+    "injury_type": "Cardiac"
+  },
+  {
+    "id": 162,
+    "title": "Patella Fracture Protocol",
+    "summary": "Wound care and infection prevention.",
+    "details": "Prepare for OR if unstable. Consult trauma, ortho, or neuro teams depending on injury site.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 163,
+    "title": "Cardiac Tamponade Protocol",
+    "summary": "Neurovascular assessment and monitoring.",
+    "details": "If GCS <8, intubate. Initiate seizure prophylaxis, monitor ICP and cerebral perfusion pressure closely.",
+    "injury_type": "Cardiac"
+  },
+  {
+    "id": 164,
+    "title": "Stab Wound Protocol",
+    "summary": "Analgesia and sedation management plan.",
+    "details": "Secure airway, apply high-flow oxygen, and prepare for potential intubation. Monitor ABG and lactate levels.",
+    "injury_type": "Penetrating Trauma"
+  },
+  {
+    "id": 165,
+    "title": "Kidney Injury Protocol",
+    "summary": "Imaging and follow-up strategies.",
+    "details": "Administer IV fluids, analgesics, and prophylactic antibiotics. Monitor vitals and reassess every 15 minutes.",
+    "injury_type": "Abdomen"
+  },
+  {
+    "id": 166,
+    "title": "Patella Fracture Protocol",
+    "summary": "Postoperative observation and care standards.",
+    "details": "Document time of injury, mechanism, and initial findings. Communicate with receiving facility for transfer.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 167,
+    "title": "Smoke Inhalation Protocol",
+    "summary": "Transfer and referral guidelines.",
+    "details": "Elevate affected limb, apply cold compress, and initiate pain management protocol. Avoid delays in intervention.",
+    "injury_type": "Respiratory"
+  },
+  {
+    "id": 168,
+    "title": "Dental Trauma Protocol",
+    "summary": "Initial evaluation and stabilization protocol.",
+    "details": "If GCS <8, intubate. Initiate seizure prophylaxis, monitor ICP and cerebral perfusion pressure closely.",
+    "injury_type": "Head"
+  },
+  {
+    "id": 169,
+    "title": "Penetrating Neck Injury Protocol",
+    "summary": "Transfer and referral guidelines.",
+    "details": "Prepare for OR if unstable. Consult trauma, ortho, or neuro teams depending on injury site.",
+    "injury_type": "Neck"
+  },
+  {
+    "id": 170,
+    "title": "Blunt Abdominal Trauma Protocol",
+    "summary": "Wound care and infection prevention.",
+    "details": "Insert Foley catheter and NG tube as indicated. Maintain spinal precautions and monitor for neurological changes.",
+    "injury_type": "Abdomen"
+  },
+  {
+    "id": 171,
+    "title": "Frostbite Protocol",
+    "summary": "Pharmacologic and non-pharmacologic interventions.",
+    "details": "Secure airway, apply high-flow oxygen, and prepare for potential intubation. Monitor ABG and lactate levels.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 172,
+    "title": "Stab Wound Protocol",
+    "summary": "Postoperative observation and care standards.",
+    "details": "Insert Foley catheter and NG tube as indicated. Maintain spinal precautions and monitor for neurological changes.",
+    "injury_type": "Penetrating Trauma"
+  },
+  {
+    "id": 173,
+    "title": "Burn Protocol",
+    "summary": "Postoperative observation and care standards.",
+    "details": "Perform physical assessment, initiate ABCs, obtain relevant imaging and labs. Begin resuscitation as needed.",
+    "injury_type": "Burn"
+  },
+  {
+    "id": 174,
+    "title": "Cardiac Tamponade Protocol",
+    "summary": "Transfer and referral guidelines.",
+    "details": "Elevate affected limb, apply cold compress, and initiate pain management protocol. Avoid delays in intervention.",
+    "injury_type": "Cardiac"
+  },
+  {
+    "id": 175,
+    "title": "Stab Wound Protocol",
+    "summary": "Neurovascular assessment and monitoring.",
+    "details": "Use ultrasound (FAST) to identify internal bleeding. Activate massive transfusion protocol if required.",
+    "injury_type": "Penetrating Trauma"
+  },
+  {
+    "id": 176,
+    "title": "Stab Wound Protocol",
+    "summary": "Operative vs. non-operative management criteria.",
+    "details": "Prepare for OR if unstable. Consult trauma, ortho, or neuro teams depending on injury site.",
+    "injury_type": "Penetrating Trauma"
+  },
+  {
+    "id": 177,
+    "title": "Hip Dislocation Protocol",
+    "summary": "Pharmacologic and non-pharmacologic interventions.",
+    "details": "Prepare for OR if unstable. Consult trauma, ortho, or neuro teams depending on injury site.",
+    "injury_type": "Pelvis"
+  },
+  {
+    "id": 178,
+    "title": "Patella Fracture Protocol",
+    "summary": "Pharmacologic and non-pharmacologic interventions.",
+    "details": "If GCS <8, intubate. Initiate seizure prophylaxis, monitor ICP and cerebral perfusion pressure closely.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 179,
+    "title": "Scalp Laceration Protocol",
+    "summary": "Pharmacologic and non-pharmacologic interventions.",
+    "details": "Administer IV fluids, analgesics, and prophylactic antibiotics. Monitor vitals and reassess every 15 minutes.",
+    "injury_type": "Head"
+  },
+  {
+    "id": 180,
+    "title": "Retroperitoneal Hematoma Protocol",
+    "summary": "Analgesia and sedation management plan.",
+    "details": "Secure airway, apply high-flow oxygen, and prepare for potential intubation. Monitor ABG and lactate levels.",
+    "injury_type": "Abdomen"
+  },
+  {
+    "id": 181,
+    "title": "Hip Dislocation Protocol",
+    "summary": "Pharmacologic and non-pharmacologic interventions.",
+    "details": "Apply sterile dressing, initiate tetanus prophylaxis. Use splint or immobilization where appropriate.",
+    "injury_type": "Pelvis"
+  },
+  {
+    "id": 182,
+    "title": "Shoulder Dislocation Protocol",
+    "summary": "Analgesia and sedation management plan.",
+    "details": "Document time of injury, mechanism, and initial findings. Communicate with receiving facility for transfer.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 183,
+    "title": "Shoulder Dislocation Protocol",
+    "summary": "Wound care and infection prevention.",
+    "details": "Document time of injury, mechanism, and initial findings. Communicate with receiving facility for transfer.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 184,
+    "title": "Hypovolemic Shock Protocol",
+    "summary": "Transfer and referral guidelines.",
+    "details": "Secure airway, apply high-flow oxygen, and prepare for potential intubation. Monitor ABG and lactate levels.",
+    "injury_type": "Systemic"
+  },
+  {
+    "id": 185,
+    "title": "Smoke Inhalation Protocol",
+    "summary": "Initial evaluation and stabilization protocol.",
+    "details": "Insert Foley catheter and NG tube as indicated. Maintain spinal precautions and monitor for neurological changes.",
+    "injury_type": "Respiratory"
+  },
+  {
+    "id": 186,
+    "title": "Hypovolemic Shock Protocol",
+    "summary": "Emergency airway and resuscitation techniques.",
+    "details": "Document time of injury, mechanism, and initial findings. Communicate with receiving facility for transfer.",
+    "injury_type": "Systemic"
+  },
+  {
+    "id": 187,
+    "title": "Maxillofacial Injury Protocol",
+    "summary": "Operative vs. non-operative management criteria.",
+    "details": "Administer IV fluids, analgesics, and prophylactic antibiotics. Monitor vitals and reassess every 15 minutes.",
+    "injury_type": "Head"
+  },
+  {
+    "id": 188,
+    "title": "Knee Dislocation Protocol",
+    "summary": "Neurovascular assessment and monitoring.",
+    "details": "Secure airway, apply high-flow oxygen, and prepare for potential intubation. Monitor ABG and lactate levels.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 189,
+    "title": "Retroperitoneal Hematoma Protocol",
+    "summary": "Emergency airway and resuscitation techniques.",
+    "details": "Elevate affected limb, apply cold compress, and initiate pain management protocol. Avoid delays in intervention.",
+    "injury_type": "Abdomen"
+  },
+  {
+    "id": 190,
+    "title": "Anaphylaxis Protocol",
+    "summary": "Operative vs. non-operative management criteria.",
+    "details": "Insert Foley catheter and NG tube as indicated. Maintain spinal precautions and monitor for neurological changes.",
+    "injury_type": "Systemic"
+  },
+  {
+    "id": 191,
+    "title": "Esophageal Injury Protocol",
+    "summary": "Pharmacologic and non-pharmacologic interventions.",
+    "details": "Perform physical assessment, initiate ABCs, obtain relevant imaging and labs. Begin resuscitation as needed.",
+    "injury_type": "GI"
+  },
+  {
+    "id": 192,
+    "title": "Liver Laceration Protocol",
+    "summary": "Postoperative observation and care standards.",
+    "details": "Document time of injury, mechanism, and initial findings. Communicate with receiving facility for transfer.",
+    "injury_type": "Abdomen"
+  },
+  {
+    "id": 193,
+    "title": "Esophageal Injury Protocol",
+    "summary": "Operative vs. non-operative management criteria.",
+    "details": "Elevate affected limb, apply cold compress, and initiate pain management protocol. Avoid delays in intervention.",
+    "injury_type": "GI"
+  },
+  {
+    "id": 194,
+    "title": "Dental Trauma Protocol",
+    "summary": "Wound care and infection prevention.",
+    "details": "Administer IV fluids, analgesics, and prophylactic antibiotics. Monitor vitals and reassess every 15 minutes.",
+    "injury_type": "Head"
+  },
+  {
+    "id": 195,
+    "title": "Cardiac Tamponade Protocol",
+    "summary": "Transfer and referral guidelines.",
+    "details": "Apply sterile dressing, initiate tetanus prophylaxis. Use splint or immobilization where appropriate.",
+    "injury_type": "Cardiac"
+  },
+  {
+    "id": 196,
+    "title": "Compartment Syndrome Protocol",
+    "summary": "Wound care and infection prevention.",
+    "details": "Secure airway, apply high-flow oxygen, and prepare for potential intubation. Monitor ABG and lactate levels.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 197,
+    "title": "Facial Trauma Protocol",
+    "summary": "Pharmacologic and non-pharmacologic interventions.",
+    "details": "Apply sterile dressing, initiate tetanus prophylaxis. Use splint or immobilization where appropriate.",
+    "injury_type": "Head"
+  },
+  {
+    "id": 198,
+    "title": "Eclampsia Protocol",
+    "summary": "Imaging and follow-up strategies.",
+    "details": "Administer IV fluids, analgesics, and prophylactic antibiotics. Monitor vitals and reassess every 15 minutes.",
+    "injury_type": "Obstetric"
+  },
+  {
+    "id": 199,
+    "title": "Burn Protocol",
+    "summary": "Emergency airway and resuscitation techniques.",
+    "details": "Administer IV fluids, analgesics, and prophylactic antibiotics. Monitor vitals and reassess every 15 minutes.",
+    "injury_type": "Burn"
+  },
+  {
+    "id": 200,
+    "title": "Spinal Cord Injury Protocol",
+    "summary": "Operative vs. non-operative management criteria.",
+    "details": "Perform physical assessment, initiate ABCs, obtain relevant imaging and labs. Begin resuscitation as needed.",
+    "injury_type": "Spine"
+  },
+  {
+    "id": 201,
+    "title": "Hypovolemic Shock Protocol",
+    "summary": "Initial evaluation and stabilization protocol.",
+    "details": "Secure airway, apply high-flow oxygen, and prepare for potential intubation. Monitor ABG and lactate levels.",
+    "injury_type": "Systemic"
+  },
+  {
+    "id": 202,
+    "title": "Femur Fracture Protocol",
+    "summary": "Neurovascular assessment and monitoring.",
+    "details": "Use ultrasound (FAST) to identify internal bleeding. Activate massive transfusion protocol if required.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 203,
+    "title": "Drowning Protocol",
+    "summary": "Imaging and follow-up strategies.",
+    "details": "Insert Foley catheter and NG tube as indicated. Maintain spinal precautions and monitor for neurological changes.",
+    "injury_type": "Respiratory"
+  },
+  {
+    "id": 204,
+    "title": "Blunt Abdominal Trauma Protocol",
+    "summary": "Initial evaluation and stabilization protocol.",
+    "details": "Elevate affected limb, apply cold compress, and initiate pain management protocol. Avoid delays in intervention.",
+    "injury_type": "Abdomen"
+  },
+  {
+    "id": 205,
+    "title": "Dental Trauma Protocol",
+    "summary": "Emergency airway and resuscitation techniques.",
+    "details": "Secure airway, apply high-flow oxygen, and prepare for potential intubation. Monitor ABG and lactate levels.",
+    "injury_type": "Head"
+  },
+  {
+    "id": 206,
+    "title": "Frostbite Protocol",
+    "summary": "Wound care and infection prevention.",
+    "details": "Apply sterile dressing, initiate tetanus prophylaxis. Use splint or immobilization where appropriate.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 207,
+    "title": "Gunshot Wound Protocol",
+    "summary": "Pharmacologic and non-pharmacologic interventions.",
+    "details": "Perform physical assessment, initiate ABCs, obtain relevant imaging and labs. Begin resuscitation as needed.",
+    "injury_type": "Penetrating Trauma"
+  },
+  {
+    "id": 208,
+    "title": "Spinal Cord Injury Protocol",
+    "summary": "Neurovascular assessment and monitoring.",
+    "details": "Prepare for OR if unstable. Consult trauma, ortho, or neuro teams depending on injury site.",
+    "injury_type": "Spine"
+  },
+  {
+    "id": 209,
+    "title": "Hemothorax Protocol",
+    "summary": "Analgesia and sedation management plan.",
+    "details": "Administer IV fluids, analgesics, and prophylactic antibiotics. Monitor vitals and reassess every 15 minutes.",
+    "injury_type": "Chest"
+  },
+  {
+    "id": 210,
+    "title": "Penetrating Neck Injury Protocol",
+    "summary": "Neurovascular assessment and monitoring.",
+    "details": "Perform physical assessment, initiate ABCs, obtain relevant imaging and labs. Begin resuscitation as needed.",
+    "injury_type": "Neck"
+  },
+  {
+    "id": 211,
+    "title": "Shoulder Dislocation Protocol",
+    "summary": "Transfer and referral guidelines.",
+    "details": "Apply sterile dressing, initiate tetanus prophylaxis. Use splint or immobilization where appropriate.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 212,
+    "title": "Penetrating Neck Injury Protocol",
+    "summary": "Operative vs. non-operative management criteria.",
+    "details": "Elevate affected limb, apply cold compress, and initiate pain management protocol. Avoid delays in intervention.",
+    "injury_type": "Neck"
+  },
+  {
+    "id": 213,
+    "title": "Cardiac Tamponade Protocol",
+    "summary": "Neurovascular assessment and monitoring.",
+    "details": "Apply sterile dressing, initiate tetanus prophylaxis. Use splint or immobilization where appropriate.",
+    "injury_type": "Cardiac"
+  },
+  {
+    "id": 214,
+    "title": "Stab Wound Protocol",
+    "summary": "Emergency airway and resuscitation techniques.",
+    "details": "Prepare for OR if unstable. Consult trauma, ortho, or neuro teams depending on injury site.",
+    "injury_type": "Penetrating Trauma"
+  },
+  {
+    "id": 215,
+    "title": "Hip Dislocation Protocol",
+    "summary": "Pharmacologic and non-pharmacologic interventions.",
+    "details": "Insert Foley catheter and NG tube as indicated. Maintain spinal precautions and monitor for neurological changes.",
+    "injury_type": "Pelvis"
+  },
+  {
+    "id": 216,
+    "title": "Shoulder Dislocation Protocol",
+    "summary": "Imaging and follow-up strategies.",
+    "details": "Elevate affected limb, apply cold compress, and initiate pain management protocol. Avoid delays in intervention.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 217,
+    "title": "Femur Fracture Protocol",
+    "summary": "Neurovascular assessment and monitoring.",
+    "details": "Secure airway, apply high-flow oxygen, and prepare for potential intubation. Monitor ABG and lactate levels.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 218,
+    "title": "Traumatic Amputation Protocol",
+    "summary": "Transfer and referral guidelines.",
+    "details": "Apply sterile dressing, initiate tetanus prophylaxis. Use splint or immobilization where appropriate.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 219,
+    "title": "Smoke Inhalation Protocol",
+    "summary": "Wound care and infection prevention.",
+    "details": "Perform physical assessment, initiate ABCs, obtain relevant imaging and labs. Begin resuscitation as needed.",
+    "injury_type": "Respiratory"
+  },
+  {
+    "id": 220,
+    "title": "Kidney Injury Protocol",
+    "summary": "Postoperative observation and care standards.",
+    "details": "Administer IV fluids, analgesics, and prophylactic antibiotics. Monitor vitals and reassess every 15 minutes.",
+    "injury_type": "Abdomen"
+  },
+  {
+    "id": 221,
+    "title": "Pelvic Fracture Protocol",
+    "summary": "Wound care and infection prevention.",
+    "details": "Insert Foley catheter and NG tube as indicated. Maintain spinal precautions and monitor for neurological changes.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 222,
+    "title": "Aortic Dissection Protocol",
+    "summary": "Transfer and referral guidelines.",
+    "details": "Document time of injury, mechanism, and initial findings. Communicate with receiving facility for transfer.",
+    "injury_type": "Cardiac"
+  },
+  {
+    "id": 223,
+    "title": "Dental Trauma Protocol",
+    "summary": "Imaging and follow-up strategies.",
+    "details": "Prepare for OR if unstable. Consult trauma, ortho, or neuro teams depending on injury site.",
+    "injury_type": "Head"
+  },
+  {
+    "id": 224,
+    "title": "Burn Protocol",
+    "summary": "Operative vs. non-operative management criteria.",
+    "details": "Document time of injury, mechanism, and initial findings. Communicate with receiving facility for transfer.",
+    "injury_type": "Burn"
+  },
+  {
+    "id": 225,
+    "title": "Retroperitoneal Hematoma Protocol",
+    "summary": "Operative vs. non-operative management criteria.",
+    "details": "Document time of injury, mechanism, and initial findings. Communicate with receiving facility for transfer.",
+    "injury_type": "Abdomen"
+  },
+  {
+    "id": 226,
+    "title": "Chemical Exposure Protocol",
+    "summary": "Analgesia and sedation management plan.",
+    "details": "Secure airway, apply high-flow oxygen, and prepare for potential intubation. Monitor ABG and lactate levels.",
+    "injury_type": "Burn"
+  },
+  {
+    "id": 227,
+    "title": "Retroperitoneal Hematoma Protocol",
+    "summary": "Imaging and follow-up strategies.",
+    "details": "Elevate affected limb, apply cold compress, and initiate pain management protocol. Avoid delays in intervention.",
+    "injury_type": "Abdomen"
+  },
+  {
+    "id": 228,
+    "title": "Gunshot Wound Protocol",
+    "summary": "Emergency airway and resuscitation techniques.",
+    "details": "Use ultrasound (FAST) to identify internal bleeding. Activate massive transfusion protocol if required.",
+    "injury_type": "Penetrating Trauma"
+  },
+  {
+    "id": 229,
+    "title": "Femur Fracture Protocol",
+    "summary": "Analgesia and sedation management plan.",
+    "details": "Apply sterile dressing, initiate tetanus prophylaxis. Use splint or immobilization where appropriate.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 230,
+    "title": "Hypovolemic Shock Protocol",
+    "summary": "Analgesia and sedation management plan.",
+    "details": "Use ultrasound (FAST) to identify internal bleeding. Activate massive transfusion protocol if required.",
+    "injury_type": "Systemic"
+  },
+  {
+    "id": 231,
+    "title": "Electrical Burn Protocol",
+    "summary": "Pharmacologic and non-pharmacologic interventions.",
+    "details": "Use ultrasound (FAST) to identify internal bleeding. Activate massive transfusion protocol if required.",
+    "injury_type": "Burn"
+  },
+  {
+    "id": 232,
+    "title": "Hypovolemic Shock Protocol",
+    "summary": "Analgesia and sedation management plan.",
+    "details": "Secure airway, apply high-flow oxygen, and prepare for potential intubation. Monitor ABG and lactate levels.",
+    "injury_type": "Systemic"
+  },
+  {
+    "id": 233,
+    "title": "Pneumothorax Protocol",
+    "summary": "Wound care and infection prevention.",
+    "details": "Use ultrasound (FAST) to identify internal bleeding. Activate massive transfusion protocol if required.",
+    "injury_type": "Chest"
+  },
+  {
+    "id": 234,
+    "title": "Dental Trauma Protocol",
+    "summary": "Neurovascular assessment and monitoring.",
+    "details": "Administer IV fluids, analgesics, and prophylactic antibiotics. Monitor vitals and reassess every 15 minutes.",
+    "injury_type": "Head"
+  },
+  {
+    "id": 235,
+    "title": "Diaphragmatic Rupture Protocol",
+    "summary": "Postoperative observation and care standards.",
+    "details": "Elevate affected limb, apply cold compress, and initiate pain management protocol. Avoid delays in intervention.",
+    "injury_type": "Thoracic"
+  },
+  {
+    "id": 236,
+    "title": "Spleen Injury Protocol",
+    "summary": "Neurovascular assessment and monitoring.",
+    "details": "Prepare for OR if unstable. Consult trauma, ortho, or neuro teams depending on injury site.",
+    "injury_type": "Abdomen"
+  },
+  {
+    "id": 237,
+    "title": "Spinal Cord Injury Protocol",
+    "summary": "Postoperative observation and care standards.",
+    "details": "Perform physical assessment, initiate ABCs, obtain relevant imaging and labs. Begin resuscitation as needed.",
+    "injury_type": "Spine"
+  },
+  {
+    "id": 238,
+    "title": "Elbow Injury Protocol",
+    "summary": "Wound care and infection prevention.",
+    "details": "Secure airway, apply high-flow oxygen, and prepare for potential intubation. Monitor ABG and lactate levels.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 239,
+    "title": "Shoulder Dislocation Protocol",
+    "summary": "Initial evaluation and stabilization protocol.",
+    "details": "Perform physical assessment, initiate ABCs, obtain relevant imaging and labs. Begin resuscitation as needed.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 240,
+    "title": "Dental Trauma Protocol",
+    "summary": "Transfer and referral guidelines.",
+    "details": "Administer IV fluids, analgesics, and prophylactic antibiotics. Monitor vitals and reassess every 15 minutes.",
+    "injury_type": "Head"
+  },
+  {
+    "id": 241,
+    "title": "Elbow Injury Protocol",
+    "summary": "Pharmacologic and non-pharmacologic interventions.",
+    "details": "Elevate affected limb, apply cold compress, and initiate pain management protocol. Avoid delays in intervention.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 242,
+    "title": "Burn Protocol",
+    "summary": "Analgesia and sedation management plan.",
+    "details": "Use ultrasound (FAST) to identify internal bleeding. Activate massive transfusion protocol if required.",
+    "injury_type": "Burn"
+  },
+  {
+    "id": 243,
+    "title": "Chemical Exposure Protocol",
+    "summary": "Initial evaluation and stabilization protocol.",
+    "details": "Perform physical assessment, initiate ABCs, obtain relevant imaging and labs. Begin resuscitation as needed.",
+    "injury_type": "Burn"
+  },
+  {
+    "id": 244,
+    "title": "Kidney Injury Protocol",
+    "summary": "Pharmacologic and non-pharmacologic interventions.",
+    "details": "Insert Foley catheter and NG tube as indicated. Maintain spinal precautions and monitor for neurological changes.",
+    "injury_type": "Abdomen"
+  },
+  {
+    "id": 245,
+    "title": "Hip Dislocation Protocol",
+    "summary": "Postoperative observation and care standards.",
+    "details": "Elevate affected limb, apply cold compress, and initiate pain management protocol. Avoid delays in intervention.",
+    "injury_type": "Pelvis"
+  },
+  {
+    "id": 246,
+    "title": "Anaphylaxis Protocol",
+    "summary": "Emergency airway and resuscitation techniques.",
+    "details": "Apply sterile dressing, initiate tetanus prophylaxis. Use splint or immobilization where appropriate.",
+    "injury_type": "Systemic"
+  },
+  {
+    "id": 247,
+    "title": "Orbital Fracture Protocol",
+    "summary": "Transfer and referral guidelines.",
+    "details": "Perform physical assessment, initiate ABCs, obtain relevant imaging and labs. Begin resuscitation as needed.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 248,
+    "title": "Femur Fracture Protocol",
+    "summary": "Imaging and follow-up strategies.",
+    "details": "Document time of injury, mechanism, and initial findings. Communicate with receiving facility for transfer.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 249,
+    "title": "Wrist Fracture Protocol",
+    "summary": "Operative vs. non-operative management criteria.",
+    "details": "Perform physical assessment, initiate ABCs, obtain relevant imaging and labs. Begin resuscitation as needed.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 250,
+    "title": "Shoulder Dislocation Protocol",
+    "summary": "Analgesia and sedation management plan.",
+    "details": "Prepare for OR if unstable. Consult trauma, ortho, or neuro teams depending on injury site.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 251,
+    "title": "Diaphragmatic Rupture Protocol",
+    "summary": "Transfer and referral guidelines.",
+    "details": "Administer IV fluids, analgesics, and prophylactic antibiotics. Monitor vitals and reassess every 15 minutes.",
+    "injury_type": "Thoracic"
+  },
+  {
+    "id": 252,
+    "title": "Chemical Exposure Protocol",
+    "summary": "Emergency airway and resuscitation techniques.",
+    "details": "Secure airway, apply high-flow oxygen, and prepare for potential intubation. Monitor ABG and lactate levels.",
+    "injury_type": "Burn"
+  },
+  {
+    "id": 253,
+    "title": "Hypovolemic Shock Protocol",
+    "summary": "Imaging and follow-up strategies.",
+    "details": "Use ultrasound (FAST) to identify internal bleeding. Activate massive transfusion protocol if required.",
+    "injury_type": "Systemic"
+  },
+  {
+    "id": 254,
+    "title": "Retroperitoneal Hematoma Protocol",
+    "summary": "Imaging and follow-up strategies.",
+    "details": "Perform physical assessment, initiate ABCs, obtain relevant imaging and labs. Begin resuscitation as needed.",
+    "injury_type": "Abdomen"
+  },
+  {
+    "id": 255,
+    "title": "Hypovolemic Shock Protocol",
+    "summary": "Neurovascular assessment and monitoring.",
+    "details": "Use ultrasound (FAST) to identify internal bleeding. Activate massive transfusion protocol if required.",
+    "injury_type": "Systemic"
+  },
+  {
+    "id": 256,
+    "title": "Open Fracture Protocol",
+    "summary": "Emergency airway and resuscitation techniques.",
+    "details": "Prepare for OR if unstable. Consult trauma, ortho, or neuro teams depending on injury site.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 257,
+    "title": "Burn Protocol",
+    "summary": "Postoperative observation and care standards.",
+    "details": "Apply sterile dressing, initiate tetanus prophylaxis. Use splint or immobilization where appropriate.",
+    "injury_type": "Burn"
+  },
+  {
+    "id": 258,
+    "title": "Drowning Protocol",
+    "summary": "Imaging and follow-up strategies.",
+    "details": "Prepare for OR if unstable. Consult trauma, ortho, or neuro teams depending on injury site.",
+    "injury_type": "Respiratory"
+  },
+  {
+    "id": 259,
+    "title": "Chest Trauma Protocol",
+    "summary": "Neurovascular assessment and monitoring.",
+    "details": "Secure airway, apply high-flow oxygen, and prepare for potential intubation. Monitor ABG and lactate levels.",
+    "injury_type": "Chest"
+  },
+  {
+    "id": 260,
+    "title": "Crush Injury Protocol",
+    "summary": "Postoperative observation and care standards.",
+    "details": "Secure airway, apply high-flow oxygen, and prepare for potential intubation. Monitor ABG and lactate levels.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 261,
+    "title": "Orbital Fracture Protocol",
+    "summary": "Analgesia and sedation management plan.",
+    "details": "Use ultrasound (FAST) to identify internal bleeding. Activate massive transfusion protocol if required.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 262,
+    "title": "Orbital Fracture Protocol",
+    "summary": "Postoperative observation and care standards.",
+    "details": "Administer IV fluids, analgesics, and prophylactic antibiotics. Monitor vitals and reassess every 15 minutes.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 263,
+    "title": "Scalp Laceration Protocol",
+    "summary": "Pharmacologic and non-pharmacologic interventions.",
+    "details": "Insert Foley catheter and NG tube as indicated. Maintain spinal precautions and monitor for neurological changes.",
+    "injury_type": "Head"
+  },
+  {
+    "id": 264,
+    "title": "Retroperitoneal Hematoma Protocol",
+    "summary": "Transfer and referral guidelines.",
+    "details": "Elevate affected limb, apply cold compress, and initiate pain management protocol. Avoid delays in intervention.",
+    "injury_type": "Abdomen"
+  },
+  {
+    "id": 265,
+    "title": "Spleen Injury Protocol",
+    "summary": "Imaging and follow-up strategies.",
+    "details": "Secure airway, apply high-flow oxygen, and prepare for potential intubation. Monitor ABG and lactate levels.",
+    "injury_type": "Abdomen"
+  },
+  {
+    "id": 266,
+    "title": "Drowning Protocol",
+    "summary": "Imaging and follow-up strategies.",
+    "details": "If GCS <8, intubate. Initiate seizure prophylaxis, monitor ICP and cerebral perfusion pressure closely.",
+    "injury_type": "Respiratory"
+  },
+  {
+    "id": 267,
+    "title": "Retroperitoneal Hematoma Protocol",
+    "summary": "Transfer and referral guidelines.",
+    "details": "Insert Foley catheter and NG tube as indicated. Maintain spinal precautions and monitor for neurological changes.",
+    "injury_type": "Abdomen"
+  },
+  {
+    "id": 268,
+    "title": "Hand Injury Protocol",
+    "summary": "Emergency airway and resuscitation techniques.",
+    "details": "Perform physical assessment, initiate ABCs, obtain relevant imaging and labs. Begin resuscitation as needed.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 269,
+    "title": "Hip Dislocation Protocol",
+    "summary": "Pharmacologic and non-pharmacologic interventions.",
+    "details": "If GCS <8, intubate. Initiate seizure prophylaxis, monitor ICP and cerebral perfusion pressure closely.",
+    "injury_type": "Pelvis"
+  },
+  {
+    "id": 270,
+    "title": "Dental Trauma Protocol",
+    "summary": "Analgesia and sedation management plan.",
+    "details": "Administer IV fluids, analgesics, and prophylactic antibiotics. Monitor vitals and reassess every 15 minutes.",
+    "injury_type": "Head"
+  },
+  {
+    "id": 271,
+    "title": "Septic Shock Protocol",
+    "summary": "Imaging and follow-up strategies.",
+    "details": "Document time of injury, mechanism, and initial findings. Communicate with receiving facility for transfer.",
+    "injury_type": "Systemic"
+  },
+  {
+    "id": 272,
+    "title": "Pelvic Fracture Protocol",
+    "summary": "Neurovascular assessment and monitoring.",
+    "details": "Use ultrasound (FAST) to identify internal bleeding. Activate massive transfusion protocol if required.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 273,
+    "title": "Septic Shock Protocol",
+    "summary": "Pharmacologic and non-pharmacologic interventions.",
+    "details": "Perform physical assessment, initiate ABCs, obtain relevant imaging and labs. Begin resuscitation as needed.",
+    "injury_type": "Systemic"
+  },
+  {
+    "id": 274,
+    "title": "Diaphragmatic Rupture Protocol",
+    "summary": "Wound care and infection prevention.",
+    "details": "If GCS <8, intubate. Initiate seizure prophylaxis, monitor ICP and cerebral perfusion pressure closely.",
+    "injury_type": "Thoracic"
+  },
+  {
+    "id": 275,
+    "title": "Anaphylaxis Protocol",
+    "summary": "Imaging and follow-up strategies.",
+    "details": "Elevate affected limb, apply cold compress, and initiate pain management protocol. Avoid delays in intervention.",
+    "injury_type": "Systemic"
+  },
+  {
+    "id": 276,
+    "title": "Electrical Burn Protocol",
+    "summary": "Emergency airway and resuscitation techniques.",
+    "details": "Insert Foley catheter and NG tube as indicated. Maintain spinal precautions and monitor for neurological changes.",
+    "injury_type": "Burn"
+  },
+  {
+    "id": 277,
+    "title": "Aortic Dissection Protocol",
+    "summary": "Analgesia and sedation management plan.",
+    "details": "Secure airway, apply high-flow oxygen, and prepare for potential intubation. Monitor ABG and lactate levels.",
+    "injury_type": "Cardiac"
+  },
+  {
+    "id": 278,
+    "title": "Traumatic Amputation Protocol",
+    "summary": "Imaging and follow-up strategies.",
+    "details": "Prepare for OR if unstable. Consult trauma, ortho, or neuro teams depending on injury site.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 279,
+    "title": "Drowning Protocol",
+    "summary": "Postoperative observation and care standards.",
+    "details": "Insert Foley catheter and NG tube as indicated. Maintain spinal precautions and monitor for neurological changes.",
+    "injury_type": "Respiratory"
+  },
+  {
+    "id": 280,
+    "title": "Crush Injury Protocol",
+    "summary": "Pharmacologic and non-pharmacologic interventions.",
+    "details": "Insert Foley catheter and NG tube as indicated. Maintain spinal precautions and monitor for neurological changes.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 281,
+    "title": "Dental Trauma Protocol",
+    "summary": "Wound care and infection prevention.",
+    "details": "Secure airway, apply high-flow oxygen, and prepare for potential intubation. Monitor ABG and lactate levels.",
+    "injury_type": "Head"
+  },
+  {
+    "id": 282,
+    "title": "Frostbite Protocol",
+    "summary": "Emergency airway and resuscitation techniques.",
+    "details": "Elevate affected limb, apply cold compress, and initiate pain management protocol. Avoid delays in intervention.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 283,
+    "title": "Patella Fracture Protocol",
+    "summary": "Operative vs. non-operative management criteria.",
+    "details": "Insert Foley catheter and NG tube as indicated. Maintain spinal precautions and monitor for neurological changes.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 284,
+    "title": "Kidney Injury Protocol",
+    "summary": "Transfer and referral guidelines.",
+    "details": "Document time of injury, mechanism, and initial findings. Communicate with receiving facility for transfer.",
+    "injury_type": "Abdomen"
+  },
+  {
+    "id": 285,
+    "title": "Drowning Protocol",
+    "summary": "Pharmacologic and non-pharmacologic interventions.",
+    "details": "Elevate affected limb, apply cold compress, and initiate pain management protocol. Avoid delays in intervention.",
+    "injury_type": "Respiratory"
+  },
+  {
+    "id": 286,
+    "title": "Blunt Abdominal Trauma Protocol",
+    "summary": "Imaging and follow-up strategies.",
+    "details": "Insert Foley catheter and NG tube as indicated. Maintain spinal precautions and monitor for neurological changes.",
+    "injury_type": "Abdomen"
+  },
+  {
+    "id": 287,
+    "title": "Eclampsia Protocol",
+    "summary": "Operative vs. non-operative management criteria.",
+    "details": "Document time of injury, mechanism, and initial findings. Communicate with receiving facility for transfer.",
+    "injury_type": "Obstetric"
+  },
+  {
+    "id": 288,
+    "title": "Knee Dislocation Protocol",
+    "summary": "Neurovascular assessment and monitoring.",
+    "details": "Use ultrasound (FAST) to identify internal bleeding. Activate massive transfusion protocol if required.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 289,
+    "title": "Flail Chest Protocol",
+    "summary": "Transfer and referral guidelines.",
+    "details": "Secure airway, apply high-flow oxygen, and prepare for potential intubation. Monitor ABG and lactate levels.",
+    "injury_type": "Chest"
+  },
+  {
+    "id": 290,
+    "title": "Burn Protocol",
+    "summary": "Pharmacologic and non-pharmacologic interventions.",
+    "details": "Elevate affected limb, apply cold compress, and initiate pain management protocol. Avoid delays in intervention.",
+    "injury_type": "Burn"
+  },
+  {
+    "id": 291,
+    "title": "Spinal Cord Injury Protocol",
+    "summary": "Initial evaluation and stabilization protocol.",
+    "details": "Use ultrasound (FAST) to identify internal bleeding. Activate massive transfusion protocol if required.",
+    "injury_type": "Spine"
+  },
+  {
+    "id": 292,
+    "title": "Tibia/Fibula Fracture Protocol",
+    "summary": "Emergency airway and resuscitation techniques.",
+    "details": "Apply sterile dressing, initiate tetanus prophylaxis. Use splint or immobilization where appropriate.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 293,
+    "title": "Esophageal Injury Protocol",
+    "summary": "Postoperative observation and care standards.",
+    "details": "If GCS <8, intubate. Initiate seizure prophylaxis, monitor ICP and cerebral perfusion pressure closely.",
+    "injury_type": "GI"
+  },
+  {
+    "id": 294,
+    "title": "Tibia/Fibula Fracture Protocol",
+    "summary": "Pharmacologic and non-pharmacologic interventions.",
+    "details": "Insert Foley catheter and NG tube as indicated. Maintain spinal precautions and monitor for neurological changes.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 295,
+    "title": "Crush Injury Protocol",
+    "summary": "Initial evaluation and stabilization protocol.",
+    "details": "Secure airway, apply high-flow oxygen, and prepare for potential intubation. Monitor ABG and lactate levels.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 296,
+    "title": "Dental Trauma Protocol",
+    "summary": "Operative vs. non-operative management criteria.",
+    "details": "Apply sterile dressing, initiate tetanus prophylaxis. Use splint or immobilization where appropriate.",
+    "injury_type": "Head"
+  },
+  {
+    "id": 297,
+    "title": "Anaphylaxis Protocol",
+    "summary": "Pharmacologic and non-pharmacologic interventions.",
+    "details": "Use ultrasound (FAST) to identify internal bleeding. Activate massive transfusion protocol if required.",
+    "injury_type": "Systemic"
+  },
+  {
+    "id": 298,
+    "title": "Hemothorax Protocol",
+    "summary": "Transfer and referral guidelines.",
+    "details": "Insert Foley catheter and NG tube as indicated. Maintain spinal precautions and monitor for neurological changes.",
+    "injury_type": "Chest"
+  },
+  {
+    "id": 299,
+    "title": "Drowning Protocol",
+    "summary": "Neurovascular assessment and monitoring.",
+    "details": "Prepare for OR if unstable. Consult trauma, ortho, or neuro teams depending on injury site.",
+    "injury_type": "Respiratory"
+  },
+  {
+    "id": 300,
+    "title": "Knee Dislocation Protocol",
+    "summary": "Postoperative observation and care standards.",
+    "details": "Secure airway, apply high-flow oxygen, and prepare for potential intubation. Monitor ABG and lactate levels.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 301,
+    "title": "Crush Injury Protocol",
+    "summary": "Pharmacologic and non-pharmacologic interventions.",
+    "details": "Use ultrasound (FAST) to identify internal bleeding. Activate massive transfusion protocol if required.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 302,
+    "title": "Frostbite Protocol",
+    "summary": "Initial evaluation and stabilization protocol.",
+    "details": "Prepare for OR if unstable. Consult trauma, ortho, or neuro teams depending on injury site.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 303,
+    "title": "Anaphylaxis Protocol",
+    "summary": "Analgesia and sedation management plan.",
+    "details": "Perform physical assessment, initiate ABCs, obtain relevant imaging and labs. Begin resuscitation as needed.",
+    "injury_type": "Systemic"
+  },
+  {
+    "id": 304,
+    "title": "Scalp Laceration Protocol",
+    "summary": "Analgesia and sedation management plan.",
+    "details": "Secure airway, apply high-flow oxygen, and prepare for potential intubation. Monitor ABG and lactate levels.",
+    "injury_type": "Head"
+  },
+  {
+    "id": 305,
+    "title": "Crush Injury Protocol",
+    "summary": "Emergency airway and resuscitation techniques.",
+    "details": "Administer IV fluids, analgesics, and prophylactic antibiotics. Monitor vitals and reassess every 15 minutes.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 306,
+    "title": "Eclampsia Protocol",
+    "summary": "Imaging and follow-up strategies.",
+    "details": "Elevate affected limb, apply cold compress, and initiate pain management protocol. Avoid delays in intervention.",
+    "injury_type": "Obstetric"
+  },
+  {
+    "id": 307,
+    "title": "Hand Injury Protocol",
+    "summary": "Initial evaluation and stabilization protocol.",
+    "details": "Prepare for OR if unstable. Consult trauma, ortho, or neuro teams depending on injury site.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 308,
+    "title": "Patella Fracture Protocol",
+    "summary": "Transfer and referral guidelines.",
+    "details": "Insert Foley catheter and NG tube as indicated. Maintain spinal precautions and monitor for neurological changes.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 309,
+    "title": "Facial Trauma Protocol",
+    "summary": "Wound care and infection prevention.",
+    "details": "Perform physical assessment, initiate ABCs, obtain relevant imaging and labs. Begin resuscitation as needed.",
+    "injury_type": "Head"
+  },
+  {
+    "id": 310,
+    "title": "Electrical Burn Protocol",
+    "summary": "Pharmacologic and non-pharmacologic interventions.",
+    "details": "Insert Foley catheter and NG tube as indicated. Maintain spinal precautions and monitor for neurological changes.",
+    "injury_type": "Burn"
+  },
+  {
+    "id": 311,
+    "title": "Compartment Syndrome Protocol",
+    "summary": "Emergency airway and resuscitation techniques.",
+    "details": "Document time of injury, mechanism, and initial findings. Communicate with receiving facility for transfer.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 312,
+    "title": "Frostbite Protocol",
+    "summary": "Imaging and follow-up strategies.",
+    "details": "Insert Foley catheter and NG tube as indicated. Maintain spinal precautions and monitor for neurological changes.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 313,
+    "title": "Esophageal Injury Protocol",
+    "summary": "Neurovascular assessment and monitoring.",
+    "details": "Elevate affected limb, apply cold compress, and initiate pain management protocol. Avoid delays in intervention.",
+    "injury_type": "GI"
+  },
+  {
+    "id": 314,
+    "title": "Cardiac Tamponade Protocol",
+    "summary": "Analgesia and sedation management plan.",
+    "details": "If GCS <8, intubate. Initiate seizure prophylaxis, monitor ICP and cerebral perfusion pressure closely.",
+    "injury_type": "Cardiac"
+  },
+  {
+    "id": 315,
+    "title": "Facial Trauma Protocol",
+    "summary": "Initial evaluation and stabilization protocol.",
+    "details": "Apply sterile dressing, initiate tetanus prophylaxis. Use splint or immobilization where appropriate.",
+    "injury_type": "Head"
+  },
+  {
+    "id": 316,
+    "title": "Pelvic Fracture Protocol",
+    "summary": "Imaging and follow-up strategies.",
+    "details": "If GCS <8, intubate. Initiate seizure prophylaxis, monitor ICP and cerebral perfusion pressure closely.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 317,
+    "title": "Knee Dislocation Protocol",
+    "summary": "Imaging and follow-up strategies.",
+    "details": "Prepare for OR if unstable. Consult trauma, ortho, or neuro teams depending on injury site.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 318,
+    "title": "Dental Trauma Protocol",
+    "summary": "Neurovascular assessment and monitoring.",
+    "details": "Insert Foley catheter and NG tube as indicated. Maintain spinal precautions and monitor for neurological changes.",
+    "injury_type": "Head"
+  },
+  {
+    "id": 319,
+    "title": "Spleen Injury Protocol",
+    "summary": "Initial evaluation and stabilization protocol.",
+    "details": "Secure airway, apply high-flow oxygen, and prepare for potential intubation. Monitor ABG and lactate levels.",
+    "injury_type": "Abdomen"
+  },
+  {
+    "id": 320,
+    "title": "Hand Injury Protocol",
+    "summary": "Neurovascular assessment and monitoring.",
+    "details": "Insert Foley catheter and NG tube as indicated. Maintain spinal precautions and monitor for neurological changes.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 321,
+    "title": "Hip Dislocation Protocol",
+    "summary": "Analgesia and sedation management plan.",
+    "details": "If GCS <8, intubate. Initiate seizure prophylaxis, monitor ICP and cerebral perfusion pressure closely.",
+    "injury_type": "Pelvis"
+  },
+  {
+    "id": 322,
+    "title": "Orbital Fracture Protocol",
+    "summary": "Wound care and infection prevention.",
+    "details": "Perform physical assessment, initiate ABCs, obtain relevant imaging and labs. Begin resuscitation as needed.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 323,
+    "title": "Aortic Dissection Protocol",
+    "summary": "Postoperative observation and care standards.",
+    "details": "Use ultrasound (FAST) to identify internal bleeding. Activate massive transfusion protocol if required.",
+    "injury_type": "Cardiac"
+  },
+  {
+    "id": 324,
+    "title": "Elbow Injury Protocol",
+    "summary": "Pharmacologic and non-pharmacologic interventions.",
+    "details": "Apply sterile dressing, initiate tetanus prophylaxis. Use splint or immobilization where appropriate.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 325,
+    "title": "Pelvic Fracture Protocol",
+    "summary": "Neurovascular assessment and monitoring.",
+    "details": "Administer IV fluids, analgesics, and prophylactic antibiotics. Monitor vitals and reassess every 15 minutes.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 326,
+    "title": "Retroperitoneal Hematoma Protocol",
+    "summary": "Emergency airway and resuscitation techniques.",
+    "details": "Apply sterile dressing, initiate tetanus prophylaxis. Use splint or immobilization where appropriate.",
+    "injury_type": "Abdomen"
+  },
+  {
+    "id": 327,
+    "title": "Maxillofacial Injury Protocol",
+    "summary": "Postoperative observation and care standards.",
+    "details": "If GCS <8, intubate. Initiate seizure prophylaxis, monitor ICP and cerebral perfusion pressure closely.",
+    "injury_type": "Head"
+  },
+  {
+    "id": 328,
+    "title": "Traumatic Amputation Protocol",
+    "summary": "Pharmacologic and non-pharmacologic interventions.",
+    "details": "Use ultrasound (FAST) to identify internal bleeding. Activate massive transfusion protocol if required.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 329,
+    "title": "Dental Trauma Protocol",
+    "summary": "Neurovascular assessment and monitoring.",
+    "details": "Elevate affected limb, apply cold compress, and initiate pain management protocol. Avoid delays in intervention.",
+    "injury_type": "Head"
+  },
+  {
+    "id": 330,
+    "title": "Cardiac Tamponade Protocol",
+    "summary": "Wound care and infection prevention.",
+    "details": "Apply sterile dressing, initiate tetanus prophylaxis. Use splint or immobilization where appropriate.",
+    "injury_type": "Cardiac"
+  },
+  {
+    "id": 331,
+    "title": "Patella Fracture Protocol",
+    "summary": "Analgesia and sedation management plan.",
+    "details": "Use ultrasound (FAST) to identify internal bleeding. Activate massive transfusion protocol if required.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 332,
+    "title": "Spleen Injury Protocol",
+    "summary": "Operative vs. non-operative management criteria.",
+    "details": "Use ultrasound (FAST) to identify internal bleeding. Activate massive transfusion protocol if required.",
+    "injury_type": "Abdomen"
+  },
+  {
+    "id": 333,
+    "title": "Septic Shock Protocol",
+    "summary": "Operative vs. non-operative management criteria.",
+    "details": "Administer IV fluids, analgesics, and prophylactic antibiotics. Monitor vitals and reassess every 15 minutes.",
+    "injury_type": "Systemic"
+  },
+  {
+    "id": 334,
+    "title": "Knee Dislocation Protocol",
+    "summary": "Imaging and follow-up strategies.",
+    "details": "Document time of injury, mechanism, and initial findings. Communicate with receiving facility for transfer.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 335,
+    "title": "Knee Dislocation Protocol",
+    "summary": "Postoperative observation and care standards.",
+    "details": "Document time of injury, mechanism, and initial findings. Communicate with receiving facility for transfer.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 336,
+    "title": "Traumatic Amputation Protocol",
+    "summary": "Postoperative observation and care standards.",
+    "details": "Prepare for OR if unstable. Consult trauma, ortho, or neuro teams depending on injury site.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 337,
+    "title": "Smoke Inhalation Protocol",
+    "summary": "Initial evaluation and stabilization protocol.",
+    "details": "Secure airway, apply high-flow oxygen, and prepare for potential intubation. Monitor ABG and lactate levels.",
+    "injury_type": "Respiratory"
+  },
+  {
+    "id": 338,
+    "title": "Pneumothorax Protocol",
+    "summary": "Emergency airway and resuscitation techniques.",
+    "details": "Insert Foley catheter and NG tube as indicated. Maintain spinal precautions and monitor for neurological changes.",
+    "injury_type": "Chest"
+  },
+  {
+    "id": 339,
+    "title": "Orbital Fracture Protocol",
+    "summary": "Imaging and follow-up strategies.",
+    "details": "Insert Foley catheter and NG tube as indicated. Maintain spinal precautions and monitor for neurological changes.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 340,
+    "title": "Pneumothorax Protocol",
+    "summary": "Postoperative observation and care standards.",
+    "details": "If GCS <8, intubate. Initiate seizure prophylaxis, monitor ICP and cerebral perfusion pressure closely.",
+    "injury_type": "Chest"
+  },
+  {
+    "id": 341,
+    "title": "Electrical Burn Protocol",
+    "summary": "Transfer and referral guidelines.",
+    "details": "Perform physical assessment, initiate ABCs, obtain relevant imaging and labs. Begin resuscitation as needed.",
+    "injury_type": "Burn"
+  },
+  {
+    "id": 342,
+    "title": "Chemical Exposure Protocol",
+    "summary": "Analgesia and sedation management plan.",
+    "details": "Insert Foley catheter and NG tube as indicated. Maintain spinal precautions and monitor for neurological changes.",
+    "injury_type": "Burn"
+  },
+  {
+    "id": 343,
+    "title": "Chest Trauma Protocol",
+    "summary": "Wound care and infection prevention.",
+    "details": "Perform physical assessment, initiate ABCs, obtain relevant imaging and labs. Begin resuscitation as needed.",
+    "injury_type": "Chest"
+  },
+  {
+    "id": 344,
+    "title": "Wrist Fracture Protocol",
+    "summary": "Wound care and infection prevention.",
+    "details": "Document time of injury, mechanism, and initial findings. Communicate with receiving facility for transfer.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 345,
+    "title": "Compartment Syndrome Protocol",
+    "summary": "Wound care and infection prevention.",
+    "details": "Use ultrasound (FAST) to identify internal bleeding. Activate massive transfusion protocol if required.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 346,
+    "title": "Blunt Abdominal Trauma Protocol",
+    "summary": "Neurovascular assessment and monitoring.",
+    "details": "Apply sterile dressing, initiate tetanus prophylaxis. Use splint or immobilization where appropriate.",
+    "injury_type": "Abdomen"
+  },
+  {
+    "id": 347,
+    "title": "Retroperitoneal Hematoma Protocol",
+    "summary": "Initial evaluation and stabilization protocol.",
+    "details": "Secure airway, apply high-flow oxygen, and prepare for potential intubation. Monitor ABG and lactate levels.",
+    "injury_type": "Abdomen"
+  },
+  {
+    "id": 348,
+    "title": "Maxillofacial Injury Protocol",
+    "summary": "Pharmacologic and non-pharmacologic interventions.",
+    "details": "If GCS <8, intubate. Initiate seizure prophylaxis, monitor ICP and cerebral perfusion pressure closely.",
+    "injury_type": "Head"
+  },
+  {
+    "id": 349,
+    "title": "Penetrating Neck Injury Protocol",
+    "summary": "Emergency airway and resuscitation techniques.",
+    "details": "Prepare for OR if unstable. Consult trauma, ortho, or neuro teams depending on injury site.",
+    "injury_type": "Neck"
+  },
+  {
+    "id": 350,
+    "title": "Chest Trauma Protocol",
+    "summary": "Analgesia and sedation management plan.",
+    "details": "Perform physical assessment, initiate ABCs, obtain relevant imaging and labs. Begin resuscitation as needed.",
+    "injury_type": "Chest"
+  },
+  {
+    "id": 351,
+    "title": "Penetrating Neck Injury Protocol",
+    "summary": "Imaging and follow-up strategies.",
+    "details": "Insert Foley catheter and NG tube as indicated. Maintain spinal precautions and monitor for neurological changes.",
+    "injury_type": "Neck"
+  },
+  {
+    "id": 352,
+    "title": "Eclampsia Protocol",
+    "summary": "Emergency airway and resuscitation techniques.",
+    "details": "Secure airway, apply high-flow oxygen, and prepare for potential intubation. Monitor ABG and lactate levels.",
+    "injury_type": "Obstetric"
+  },
+  {
+    "id": 353,
+    "title": "Drowning Protocol",
+    "summary": "Emergency airway and resuscitation techniques.",
+    "details": "Prepare for OR if unstable. Consult trauma, ortho, or neuro teams depending on injury site.",
+    "injury_type": "Respiratory"
+  },
+  {
+    "id": 354,
+    "title": "Chest Trauma Protocol",
+    "summary": "Postoperative observation and care standards.",
+    "details": "Apply sterile dressing, initiate tetanus prophylaxis. Use splint or immobilization where appropriate.",
+    "injury_type": "Chest"
+  },
+  {
+    "id": 355,
+    "title": "Pelvic Fracture Protocol",
+    "summary": "Operative vs. non-operative management criteria.",
+    "details": "Apply sterile dressing, initiate tetanus prophylaxis. Use splint or immobilization where appropriate.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 356,
+    "title": "Drowning Protocol",
+    "summary": "Operative vs. non-operative management criteria.",
+    "details": "If GCS <8, intubate. Initiate seizure prophylaxis, monitor ICP and cerebral perfusion pressure closely.",
+    "injury_type": "Respiratory"
+  },
+  {
+    "id": 357,
+    "title": "Kidney Injury Protocol",
+    "summary": "Pharmacologic and non-pharmacologic interventions.",
+    "details": "Administer IV fluids, analgesics, and prophylactic antibiotics. Monitor vitals and reassess every 15 minutes.",
+    "injury_type": "Abdomen"
+  },
+  {
+    "id": 358,
+    "title": "Elbow Injury Protocol",
+    "summary": "Transfer and referral guidelines.",
+    "details": "Apply sterile dressing, initiate tetanus prophylaxis. Use splint or immobilization where appropriate.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 359,
+    "title": "Crush Injury Protocol",
+    "summary": "Wound care and infection prevention.",
+    "details": "Use ultrasound (FAST) to identify internal bleeding. Activate massive transfusion protocol if required.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 360,
+    "title": "Anaphylaxis Protocol",
+    "summary": "Imaging and follow-up strategies.",
+    "details": "Prepare for OR if unstable. Consult trauma, ortho, or neuro teams depending on injury site.",
+    "injury_type": "Systemic"
+  },
+  {
+    "id": 361,
+    "title": "Liver Laceration Protocol",
+    "summary": "Pharmacologic and non-pharmacologic interventions.",
+    "details": "Elevate affected limb, apply cold compress, and initiate pain management protocol. Avoid delays in intervention.",
+    "injury_type": "Abdomen"
+  },
+  {
+    "id": 362,
+    "title": "Electrical Burn Protocol",
+    "summary": "Postoperative observation and care standards.",
+    "details": "Perform physical assessment, initiate ABCs, obtain relevant imaging and labs. Begin resuscitation as needed.",
+    "injury_type": "Burn"
+  },
+  {
+    "id": 363,
+    "title": "Stab Wound Protocol",
+    "summary": "Postoperative observation and care standards.",
+    "details": "Perform physical assessment, initiate ABCs, obtain relevant imaging and labs. Begin resuscitation as needed.",
+    "injury_type": "Penetrating Trauma"
+  },
+  {
+    "id": 364,
+    "title": "Penetrating Neck Injury Protocol",
+    "summary": "Transfer and referral guidelines.",
+    "details": "Elevate affected limb, apply cold compress, and initiate pain management protocol. Avoid delays in intervention.",
+    "injury_type": "Neck"
+  },
+  {
+    "id": 365,
+    "title": "Chemical Exposure Protocol",
+    "summary": "Postoperative observation and care standards.",
+    "details": "Perform physical assessment, initiate ABCs, obtain relevant imaging and labs. Begin resuscitation as needed.",
+    "injury_type": "Burn"
+  },
+  {
+    "id": 366,
+    "title": "Blunt Abdominal Trauma Protocol",
+    "summary": "Initial evaluation and stabilization protocol.",
+    "details": "Use ultrasound (FAST) to identify internal bleeding. Activate massive transfusion protocol if required.",
+    "injury_type": "Abdomen"
+  },
+  {
+    "id": 367,
+    "title": "Hip Dislocation Protocol",
+    "summary": "Transfer and referral guidelines.",
+    "details": "Prepare for OR if unstable. Consult trauma, ortho, or neuro teams depending on injury site.",
+    "injury_type": "Pelvis"
+  },
+  {
+    "id": 368,
+    "title": "Esophageal Injury Protocol",
+    "summary": "Initial evaluation and stabilization protocol.",
+    "details": "Use ultrasound (FAST) to identify internal bleeding. Activate massive transfusion protocol if required.",
+    "injury_type": "GI"
+  },
+  {
+    "id": 369,
+    "title": "Flail Chest Protocol",
+    "summary": "Wound care and infection prevention.",
+    "details": "Perform physical assessment, initiate ABCs, obtain relevant imaging and labs. Begin resuscitation as needed.",
+    "injury_type": "Chest"
+  },
+  {
+    "id": 370,
+    "title": "Femur Fracture Protocol",
+    "summary": "Operative vs. non-operative management criteria.",
+    "details": "Perform physical assessment, initiate ABCs, obtain relevant imaging and labs. Begin resuscitation as needed.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 371,
+    "title": "Traumatic Amputation Protocol",
+    "summary": "Postoperative observation and care standards.",
+    "details": "Administer IV fluids, analgesics, and prophylactic antibiotics. Monitor vitals and reassess every 15 minutes.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 372,
+    "title": "Pneumothorax Protocol",
+    "summary": "Imaging and follow-up strategies.",
+    "details": "Document time of injury, mechanism, and initial findings. Communicate with receiving facility for transfer.",
+    "injury_type": "Chest"
+  },
+  {
+    "id": 373,
+    "title": "Frostbite Protocol",
+    "summary": "Analgesia and sedation management plan.",
+    "details": "Apply sterile dressing, initiate tetanus prophylaxis. Use splint or immobilization where appropriate.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 374,
+    "title": "Liver Laceration Protocol",
+    "summary": "Postoperative observation and care standards.",
+    "details": "Document time of injury, mechanism, and initial findings. Communicate with receiving facility for transfer.",
+    "injury_type": "Abdomen"
+  },
+  {
+    "id": 375,
+    "title": "Gunshot Wound Protocol",
+    "summary": "Emergency airway and resuscitation techniques.",
+    "details": "Elevate affected limb, apply cold compress, and initiate pain management protocol. Avoid delays in intervention.",
+    "injury_type": "Penetrating Trauma"
+  },
+  {
+    "id": 376,
+    "title": "Esophageal Injury Protocol",
+    "summary": "Emergency airway and resuscitation techniques.",
+    "details": "Use ultrasound (FAST) to identify internal bleeding. Activate massive transfusion protocol if required.",
+    "injury_type": "GI"
+  },
+  {
+    "id": 377,
+    "title": "Facial Trauma Protocol",
+    "summary": "Transfer and referral guidelines.",
+    "details": "Elevate affected limb, apply cold compress, and initiate pain management protocol. Avoid delays in intervention.",
+    "injury_type": "Head"
+  },
+  {
+    "id": 378,
+    "title": "Cardiac Tamponade Protocol",
+    "summary": "Operative vs. non-operative management criteria.",
+    "details": "Administer IV fluids, analgesics, and prophylactic antibiotics. Monitor vitals and reassess every 15 minutes.",
+    "injury_type": "Cardiac"
+  },
+  {
+    "id": 379,
+    "title": "Blunt Abdominal Trauma Protocol",
+    "summary": "Initial evaluation and stabilization protocol.",
+    "details": "Apply sterile dressing, initiate tetanus prophylaxis. Use splint or immobilization where appropriate.",
+    "injury_type": "Abdomen"
+  },
+  {
+    "id": 380,
+    "title": "Penetrating Neck Injury Protocol",
+    "summary": "Operative vs. non-operative management criteria.",
+    "details": "Elevate affected limb, apply cold compress, and initiate pain management protocol. Avoid delays in intervention.",
+    "injury_type": "Neck"
+  },
+  {
+    "id": 381,
+    "title": "Septic Shock Protocol",
+    "summary": "Emergency airway and resuscitation techniques.",
+    "details": "Apply sterile dressing, initiate tetanus prophylaxis. Use splint or immobilization where appropriate.",
+    "injury_type": "Systemic"
+  },
+  {
+    "id": 382,
+    "title": "Hypovolemic Shock Protocol",
+    "summary": "Wound care and infection prevention.",
+    "details": "Prepare for OR if unstable. Consult trauma, ortho, or neuro teams depending on injury site.",
+    "injury_type": "Systemic"
+  },
+  {
+    "id": 383,
+    "title": "Hypovolemic Shock Protocol",
+    "summary": "Pharmacologic and non-pharmacologic interventions.",
+    "details": "Administer IV fluids, analgesics, and prophylactic antibiotics. Monitor vitals and reassess every 15 minutes.",
+    "injury_type": "Systemic"
+  },
+  {
+    "id": 384,
+    "title": "Patella Fracture Protocol",
+    "summary": "Pharmacologic and non-pharmacologic interventions.",
+    "details": "Perform physical assessment, initiate ABCs, obtain relevant imaging and labs. Begin resuscitation as needed.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 385,
+    "title": "Shoulder Dislocation Protocol",
+    "summary": "Initial evaluation and stabilization protocol.",
+    "details": "Administer IV fluids, analgesics, and prophylactic antibiotics. Monitor vitals and reassess every 15 minutes.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 386,
+    "title": "Stab Wound Protocol",
+    "summary": "Pharmacologic and non-pharmacologic interventions.",
+    "details": "Elevate affected limb, apply cold compress, and initiate pain management protocol. Avoid delays in intervention.",
+    "injury_type": "Penetrating Trauma"
+  },
+  {
+    "id": 387,
+    "title": "Retroperitoneal Hematoma Protocol",
+    "summary": "Transfer and referral guidelines.",
+    "details": "Document time of injury, mechanism, and initial findings. Communicate with receiving facility for transfer.",
+    "injury_type": "Abdomen"
+  },
+  {
+    "id": 388,
+    "title": "Orbital Fracture Protocol",
+    "summary": "Emergency airway and resuscitation techniques.",
+    "details": "Secure airway, apply high-flow oxygen, and prepare for potential intubation. Monitor ABG and lactate levels.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 389,
+    "title": "Chemical Exposure Protocol",
+    "summary": "Operative vs. non-operative management criteria.",
+    "details": "Prepare for OR if unstable. Consult trauma, ortho, or neuro teams depending on injury site.",
+    "injury_type": "Burn"
+  },
+  {
+    "id": 390,
+    "title": "Electrical Burn Protocol",
+    "summary": "Analgesia and sedation management plan.",
+    "details": "Perform physical assessment, initiate ABCs, obtain relevant imaging and labs. Begin resuscitation as needed.",
+    "injury_type": "Burn"
+  },
+  {
+    "id": 391,
+    "title": "Blunt Abdominal Trauma Protocol",
+    "summary": "Wound care and infection prevention.",
+    "details": "Perform physical assessment, initiate ABCs, obtain relevant imaging and labs. Begin resuscitation as needed.",
+    "injury_type": "Abdomen"
+  },
+  {
+    "id": 392,
+    "title": "Stab Wound Protocol",
+    "summary": "Wound care and infection prevention.",
+    "details": "Insert Foley catheter and NG tube as indicated. Maintain spinal precautions and monitor for neurological changes.",
+    "injury_type": "Penetrating Trauma"
+  },
+  {
+    "id": 393,
+    "title": "Tibia/Fibula Fracture Protocol",
+    "summary": "Imaging and follow-up strategies.",
+    "details": "Prepare for OR if unstable. Consult trauma, ortho, or neuro teams depending on injury site.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 394,
+    "title": "Patella Fracture Protocol",
+    "summary": "Imaging and follow-up strategies.",
+    "details": "Administer IV fluids, analgesics, and prophylactic antibiotics. Monitor vitals and reassess every 15 minutes.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 395,
+    "title": "Open Fracture Protocol",
+    "summary": "Transfer and referral guidelines.",
+    "details": "Prepare for OR if unstable. Consult trauma, ortho, or neuro teams depending on injury site.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 396,
+    "title": "Clavicle Fracture Protocol",
+    "summary": "Operative vs. non-operative management criteria.",
+    "details": "Administer IV fluids, analgesics, and prophylactic antibiotics. Monitor vitals and reassess every 15 minutes.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 397,
+    "title": "Hemothorax Protocol",
+    "summary": "Pharmacologic and non-pharmacologic interventions.",
+    "details": "Perform physical assessment, initiate ABCs, obtain relevant imaging and labs. Begin resuscitation as needed.",
+    "injury_type": "Chest"
+  },
+  {
+    "id": 398,
+    "title": "Hand Injury Protocol",
+    "summary": "Neurovascular assessment and monitoring.",
+    "details": "If GCS <8, intubate. Initiate seizure prophylaxis, monitor ICP and cerebral perfusion pressure closely.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 399,
+    "title": "Orbital Fracture Protocol",
+    "summary": "Pharmacologic and non-pharmacologic interventions.",
+    "details": "Prepare for OR if unstable. Consult trauma, ortho, or neuro teams depending on injury site.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 400,
+    "title": "Facial Trauma Protocol",
+    "summary": "Wound care and infection prevention.",
+    "details": "If GCS <8, intubate. Initiate seizure prophylaxis, monitor ICP and cerebral perfusion pressure closely.",
+    "injury_type": "Head"
+  },
+  {
+    "id": 401,
+    "title": "Patella Fracture Protocol",
+    "summary": "Operative vs. non-operative management criteria.",
+    "details": "Prepare for OR if unstable. Consult trauma, ortho, or neuro teams depending on injury site.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 402,
+    "title": "Diaphragmatic Rupture Protocol",
+    "summary": "Imaging and follow-up strategies.",
+    "details": "Administer IV fluids, analgesics, and prophylactic antibiotics. Monitor vitals and reassess every 15 minutes.",
+    "injury_type": "Thoracic"
+  },
+  {
+    "id": 403,
+    "title": "Gunshot Wound Protocol",
+    "summary": "Pharmacologic and non-pharmacologic interventions.",
+    "details": "Secure airway, apply high-flow oxygen, and prepare for potential intubation. Monitor ABG and lactate levels.",
+    "injury_type": "Penetrating Trauma"
+  },
+  {
+    "id": 404,
+    "title": "Elbow Injury Protocol",
+    "summary": "Analgesia and sedation management plan.",
+    "details": "Elevate affected limb, apply cold compress, and initiate pain management protocol. Avoid delays in intervention.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 405,
+    "title": "Burn Protocol",
+    "summary": "Wound care and infection prevention.",
+    "details": "Document time of injury, mechanism, and initial findings. Communicate with receiving facility for transfer.",
+    "injury_type": "Burn"
+  },
+  {
+    "id": 406,
+    "title": "Esophageal Injury Protocol",
+    "summary": "Analgesia and sedation management plan.",
+    "details": "Secure airway, apply high-flow oxygen, and prepare for potential intubation. Monitor ABG and lactate levels.",
+    "injury_type": "GI"
+  },
+  {
+    "id": 407,
+    "title": "Spleen Injury Protocol",
+    "summary": "Imaging and follow-up strategies.",
+    "details": "Insert Foley catheter and NG tube as indicated. Maintain spinal precautions and monitor for neurological changes.",
+    "injury_type": "Abdomen"
+  },
+  {
+    "id": 408,
+    "title": "Chemical Exposure Protocol",
+    "summary": "Operative vs. non-operative management criteria.",
+    "details": "Perform physical assessment, initiate ABCs, obtain relevant imaging and labs. Begin resuscitation as needed.",
+    "injury_type": "Burn"
+  },
+  {
+    "id": 409,
+    "title": "Penetrating Neck Injury Protocol",
+    "summary": "Analgesia and sedation management plan.",
+    "details": "Apply sterile dressing, initiate tetanus prophylaxis. Use splint or immobilization where appropriate.",
+    "injury_type": "Neck"
+  },
+  {
+    "id": 410,
+    "title": "Kidney Injury Protocol",
+    "summary": "Imaging and follow-up strategies.",
+    "details": "Apply sterile dressing, initiate tetanus prophylaxis. Use splint or immobilization where appropriate.",
+    "injury_type": "Abdomen"
+  },
+  {
+    "id": 411,
+    "title": "Scalp Laceration Protocol",
+    "summary": "Analgesia and sedation management plan.",
+    "details": "Insert Foley catheter and NG tube as indicated. Maintain spinal precautions and monitor for neurological changes.",
+    "injury_type": "Head"
+  },
+  {
+    "id": 412,
+    "title": "Anaphylaxis Protocol",
+    "summary": "Postoperative observation and care standards.",
+    "details": "Use ultrasound (FAST) to identify internal bleeding. Activate massive transfusion protocol if required.",
+    "injury_type": "Systemic"
+  },
+  {
+    "id": 413,
+    "title": "Retroperitoneal Hematoma Protocol",
+    "summary": "Postoperative observation and care standards.",
+    "details": "Perform physical assessment, initiate ABCs, obtain relevant imaging and labs. Begin resuscitation as needed.",
+    "injury_type": "Abdomen"
+  },
+  {
+    "id": 414,
+    "title": "Wrist Fracture Protocol",
+    "summary": "Wound care and infection prevention.",
+    "details": "If GCS <8, intubate. Initiate seizure prophylaxis, monitor ICP and cerebral perfusion pressure closely.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 415,
+    "title": "Flail Chest Protocol",
+    "summary": "Imaging and follow-up strategies.",
+    "details": "Document time of injury, mechanism, and initial findings. Communicate with receiving facility for transfer.",
+    "injury_type": "Chest"
+  },
+  {
+    "id": 416,
+    "title": "Traumatic Amputation Protocol",
+    "summary": "Neurovascular assessment and monitoring.",
+    "details": "Secure airway, apply high-flow oxygen, and prepare for potential intubation. Monitor ABG and lactate levels.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 417,
+    "title": "Patella Fracture Protocol",
+    "summary": "Pharmacologic and non-pharmacologic interventions.",
+    "details": "Use ultrasound (FAST) to identify internal bleeding. Activate massive transfusion protocol if required.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 418,
+    "title": "Orbital Fracture Protocol",
+    "summary": "Analgesia and sedation management plan.",
+    "details": "Secure airway, apply high-flow oxygen, and prepare for potential intubation. Monitor ABG and lactate levels.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 419,
+    "title": "Open Fracture Protocol",
+    "summary": "Wound care and infection prevention.",
+    "details": "Use ultrasound (FAST) to identify internal bleeding. Activate massive transfusion protocol if required.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 420,
+    "title": "Elbow Injury Protocol",
+    "summary": "Emergency airway and resuscitation techniques.",
+    "details": "Use ultrasound (FAST) to identify internal bleeding. Activate massive transfusion protocol if required.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 421,
+    "title": "Chest Trauma Protocol",
+    "summary": "Postoperative observation and care standards.",
+    "details": "Document time of injury, mechanism, and initial findings. Communicate with receiving facility for transfer.",
+    "injury_type": "Chest"
+  },
+  {
+    "id": 422,
+    "title": "Traumatic Amputation Protocol",
+    "summary": "Neurovascular assessment and monitoring.",
+    "details": "Insert Foley catheter and NG tube as indicated. Maintain spinal precautions and monitor for neurological changes.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 423,
+    "title": "Anaphylaxis Protocol",
+    "summary": "Transfer and referral guidelines.",
+    "details": "Perform physical assessment, initiate ABCs, obtain relevant imaging and labs. Begin resuscitation as needed.",
+    "injury_type": "Systemic"
+  },
+  {
+    "id": 424,
+    "title": "Hand Injury Protocol",
+    "summary": "Operative vs. non-operative management criteria.",
+    "details": "Document time of injury, mechanism, and initial findings. Communicate with receiving facility for transfer.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 425,
+    "title": "Hip Dislocation Protocol",
+    "summary": "Neurovascular assessment and monitoring.",
+    "details": "Apply sterile dressing, initiate tetanus prophylaxis. Use splint or immobilization where appropriate.",
+    "injury_type": "Pelvis"
+  },
+  {
+    "id": 426,
+    "title": "Hand Injury Protocol",
+    "summary": "Transfer and referral guidelines.",
+    "details": "Elevate affected limb, apply cold compress, and initiate pain management protocol. Avoid delays in intervention.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 427,
+    "title": "Blunt Abdominal Trauma Protocol",
+    "summary": "Operative vs. non-operative management criteria.",
+    "details": "Apply sterile dressing, initiate tetanus prophylaxis. Use splint or immobilization where appropriate.",
+    "injury_type": "Abdomen"
+  },
+  {
+    "id": 428,
+    "title": "Liver Laceration Protocol",
+    "summary": "Transfer and referral guidelines.",
+    "details": "Elevate affected limb, apply cold compress, and initiate pain management protocol. Avoid delays in intervention.",
+    "injury_type": "Abdomen"
+  },
+  {
+    "id": 429,
+    "title": "Aortic Dissection Protocol",
+    "summary": "Neurovascular assessment and monitoring.",
+    "details": "Insert Foley catheter and NG tube as indicated. Maintain spinal precautions and monitor for neurological changes.",
+    "injury_type": "Cardiac"
+  },
+  {
+    "id": 430,
+    "title": "Diaphragmatic Rupture Protocol",
+    "summary": "Analgesia and sedation management plan.",
+    "details": "Secure airway, apply high-flow oxygen, and prepare for potential intubation. Monitor ABG and lactate levels.",
+    "injury_type": "Thoracic"
+  },
+  {
+    "id": 431,
+    "title": "Pneumothorax Protocol",
+    "summary": "Emergency airway and resuscitation techniques.",
+    "details": "Secure airway, apply high-flow oxygen, and prepare for potential intubation. Monitor ABG and lactate levels.",
+    "injury_type": "Chest"
+  },
+  {
+    "id": 432,
+    "title": "Scalp Laceration Protocol",
+    "summary": "Operative vs. non-operative management criteria.",
+    "details": "Administer IV fluids, analgesics, and prophylactic antibiotics. Monitor vitals and reassess every 15 minutes.",
+    "injury_type": "Head"
+  },
+  {
+    "id": 433,
+    "title": "Clavicle Fracture Protocol",
+    "summary": "Wound care and infection prevention.",
+    "details": "If GCS <8, intubate. Initiate seizure prophylaxis, monitor ICP and cerebral perfusion pressure closely.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 434,
+    "title": "Smoke Inhalation Protocol",
+    "summary": "Pharmacologic and non-pharmacologic interventions.",
+    "details": "Administer IV fluids, analgesics, and prophylactic antibiotics. Monitor vitals and reassess every 15 minutes.",
+    "injury_type": "Respiratory"
+  },
+  {
+    "id": 435,
+    "title": "Burn Protocol",
+    "summary": "Postoperative observation and care standards.",
+    "details": "Use ultrasound (FAST) to identify internal bleeding. Activate massive transfusion protocol if required.",
+    "injury_type": "Burn"
+  },
+  {
+    "id": 436,
+    "title": "Femur Fracture Protocol",
+    "summary": "Initial evaluation and stabilization protocol.",
+    "details": "Use ultrasound (FAST) to identify internal bleeding. Activate massive transfusion protocol if required.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 437,
+    "title": "Traumatic Amputation Protocol",
+    "summary": "Wound care and infection prevention.",
+    "details": "Insert Foley catheter and NG tube as indicated. Maintain spinal precautions and monitor for neurological changes.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 438,
+    "title": "Aortic Dissection Protocol",
+    "summary": "Initial evaluation and stabilization protocol.",
+    "details": "If GCS <8, intubate. Initiate seizure prophylaxis, monitor ICP and cerebral perfusion pressure closely.",
+    "injury_type": "Cardiac"
+  },
+  {
+    "id": 439,
+    "title": "Maxillofacial Injury Protocol",
+    "summary": "Initial evaluation and stabilization protocol.",
+    "details": "Prepare for OR if unstable. Consult trauma, ortho, or neuro teams depending on injury site.",
+    "injury_type": "Head"
+  },
+  {
+    "id": 440,
+    "title": "Compartment Syndrome Protocol",
+    "summary": "Postoperative observation and care standards.",
+    "details": "If GCS <8, intubate. Initiate seizure prophylaxis, monitor ICP and cerebral perfusion pressure closely.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 441,
+    "title": "Esophageal Injury Protocol",
+    "summary": "Wound care and infection prevention.",
+    "details": "Secure airway, apply high-flow oxygen, and prepare for potential intubation. Monitor ABG and lactate levels.",
+    "injury_type": "GI"
+  },
+  {
+    "id": 442,
+    "title": "Traumatic Brain Injury Protocol",
+    "summary": "Postoperative observation and care standards.",
+    "details": "Prepare for OR if unstable. Consult trauma, ortho, or neuro teams depending on injury site.",
+    "injury_type": "Head"
+  },
+  {
+    "id": 443,
+    "title": "Tibia/Fibula Fracture Protocol",
+    "summary": "Emergency airway and resuscitation techniques.",
+    "details": "If GCS <8, intubate. Initiate seizure prophylaxis, monitor ICP and cerebral perfusion pressure closely.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 444,
+    "title": "Maxillofacial Injury Protocol",
+    "summary": "Transfer and referral guidelines.",
+    "details": "Apply sterile dressing, initiate tetanus prophylaxis. Use splint or immobilization where appropriate.",
+    "injury_type": "Head"
+  },
+  {
+    "id": 445,
+    "title": "Scalp Laceration Protocol",
+    "summary": "Postoperative observation and care standards.",
+    "details": "Insert Foley catheter and NG tube as indicated. Maintain spinal precautions and monitor for neurological changes.",
+    "injury_type": "Head"
+  },
+  {
+    "id": 446,
+    "title": "Wrist Fracture Protocol",
+    "summary": "Wound care and infection prevention.",
+    "details": "Prepare for OR if unstable. Consult trauma, ortho, or neuro teams depending on injury site.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 447,
+    "title": "Dental Trauma Protocol",
+    "summary": "Emergency airway and resuscitation techniques.",
+    "details": "Secure airway, apply high-flow oxygen, and prepare for potential intubation. Monitor ABG and lactate levels.",
+    "injury_type": "Head"
+  },
+  {
+    "id": 448,
+    "title": "Hemothorax Protocol",
+    "summary": "Wound care and infection prevention.",
+    "details": "Prepare for OR if unstable. Consult trauma, ortho, or neuro teams depending on injury site.",
+    "injury_type": "Chest"
+  },
+  {
+    "id": 449,
+    "title": "Scalp Laceration Protocol",
+    "summary": "Emergency airway and resuscitation techniques.",
+    "details": "Elevate affected limb, apply cold compress, and initiate pain management protocol. Avoid delays in intervention.",
+    "injury_type": "Head"
+  },
+  {
+    "id": 450,
+    "title": "Pneumothorax Protocol",
+    "summary": "Neurovascular assessment and monitoring.",
+    "details": "If GCS <8, intubate. Initiate seizure prophylaxis, monitor ICP and cerebral perfusion pressure closely.",
+    "injury_type": "Chest"
+  },
+  {
+    "id": 451,
+    "title": "Orbital Fracture Protocol",
+    "summary": "Neurovascular assessment and monitoring.",
+    "details": "Secure airway, apply high-flow oxygen, and prepare for potential intubation. Monitor ABG and lactate levels.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 452,
+    "title": "Patella Fracture Protocol",
+    "summary": "Neurovascular assessment and monitoring.",
+    "details": "Prepare for OR if unstable. Consult trauma, ortho, or neuro teams depending on injury site.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 453,
+    "title": "Spinal Cord Injury Protocol",
+    "summary": "Postoperative observation and care standards.",
+    "details": "Administer IV fluids, analgesics, and prophylactic antibiotics. Monitor vitals and reassess every 15 minutes.",
+    "injury_type": "Spine"
+  },
+  {
+    "id": 454,
+    "title": "Penetrating Neck Injury Protocol",
+    "summary": "Operative vs. non-operative management criteria.",
+    "details": "Administer IV fluids, analgesics, and prophylactic antibiotics. Monitor vitals and reassess every 15 minutes.",
+    "injury_type": "Neck"
+  },
+  {
+    "id": 455,
+    "title": "Open Fracture Protocol",
+    "summary": "Analgesia and sedation management plan.",
+    "details": "Elevate affected limb, apply cold compress, and initiate pain management protocol. Avoid delays in intervention.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 456,
+    "title": "Hand Injury Protocol",
+    "summary": "Neurovascular assessment and monitoring.",
+    "details": "Secure airway, apply high-flow oxygen, and prepare for potential intubation. Monitor ABG and lactate levels.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 457,
+    "title": "Penetrating Neck Injury Protocol",
+    "summary": "Initial evaluation and stabilization protocol.",
+    "details": "Elevate affected limb, apply cold compress, and initiate pain management protocol. Avoid delays in intervention.",
+    "injury_type": "Neck"
+  },
+  {
+    "id": 458,
+    "title": "Femur Fracture Protocol",
+    "summary": "Operative vs. non-operative management criteria.",
+    "details": "Elevate affected limb, apply cold compress, and initiate pain management protocol. Avoid delays in intervention.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 459,
+    "title": "Stab Wound Protocol",
+    "summary": "Transfer and referral guidelines.",
+    "details": "Perform physical assessment, initiate ABCs, obtain relevant imaging and labs. Begin resuscitation as needed.",
+    "injury_type": "Penetrating Trauma"
+  },
+  {
+    "id": 460,
+    "title": "Spleen Injury Protocol",
+    "summary": "Analgesia and sedation management plan.",
+    "details": "Use ultrasound (FAST) to identify internal bleeding. Activate massive transfusion protocol if required.",
+    "injury_type": "Abdomen"
+  },
+  {
+    "id": 461,
+    "title": "Dental Trauma Protocol",
+    "summary": "Analgesia and sedation management plan.",
+    "details": "Document time of injury, mechanism, and initial findings. Communicate with receiving facility for transfer.",
+    "injury_type": "Head"
+  },
+  {
+    "id": 462,
+    "title": "Eclampsia Protocol",
+    "summary": "Initial evaluation and stabilization protocol.",
+    "details": "If GCS <8, intubate. Initiate seizure prophylaxis, monitor ICP and cerebral perfusion pressure closely.",
+    "injury_type": "Obstetric"
+  },
+  {
+    "id": 463,
+    "title": "Crush Injury Protocol",
+    "summary": "Operative vs. non-operative management criteria.",
+    "details": "Use ultrasound (FAST) to identify internal bleeding. Activate massive transfusion protocol if required.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 464,
+    "title": "Open Fracture Protocol",
+    "summary": "Emergency airway and resuscitation techniques.",
+    "details": "Perform physical assessment, initiate ABCs, obtain relevant imaging and labs. Begin resuscitation as needed.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 465,
+    "title": "Hand Injury Protocol",
+    "summary": "Neurovascular assessment and monitoring.",
+    "details": "Apply sterile dressing, initiate tetanus prophylaxis. Use splint or immobilization where appropriate.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 466,
+    "title": "Kidney Injury Protocol",
+    "summary": "Transfer and referral guidelines.",
+    "details": "Secure airway, apply high-flow oxygen, and prepare for potential intubation. Monitor ABG and lactate levels.",
+    "injury_type": "Abdomen"
+  },
+  {
+    "id": 467,
+    "title": "Esophageal Injury Protocol",
+    "summary": "Operative vs. non-operative management criteria.",
+    "details": "Administer IV fluids, analgesics, and prophylactic antibiotics. Monitor vitals and reassess every 15 minutes.",
+    "injury_type": "GI"
+  },
+  {
+    "id": 468,
+    "title": "Hip Dislocation Protocol",
+    "summary": "Transfer and referral guidelines.",
+    "details": "If GCS <8, intubate. Initiate seizure prophylaxis, monitor ICP and cerebral perfusion pressure closely.",
+    "injury_type": "Pelvis"
+  },
+  {
+    "id": 469,
+    "title": "Clavicle Fracture Protocol",
+    "summary": "Transfer and referral guidelines.",
+    "details": "Perform physical assessment, initiate ABCs, obtain relevant imaging and labs. Begin resuscitation as needed.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 470,
+    "title": "Pneumothorax Protocol",
+    "summary": "Initial evaluation and stabilization protocol.",
+    "details": "Perform physical assessment, initiate ABCs, obtain relevant imaging and labs. Begin resuscitation as needed.",
+    "injury_type": "Chest"
+  },
+  {
+    "id": 471,
+    "title": "Hip Dislocation Protocol",
+    "summary": "Imaging and follow-up strategies.",
+    "details": "Document time of injury, mechanism, and initial findings. Communicate with receiving facility for transfer.",
+    "injury_type": "Pelvis"
+  },
+  {
+    "id": 472,
+    "title": "Smoke Inhalation Protocol",
+    "summary": "Operative vs. non-operative management criteria.",
+    "details": "Apply sterile dressing, initiate tetanus prophylaxis. Use splint or immobilization where appropriate.",
+    "injury_type": "Respiratory"
+  },
+  {
+    "id": 473,
+    "title": "Electrical Burn Protocol",
+    "summary": "Pharmacologic and non-pharmacologic interventions.",
+    "details": "Secure airway, apply high-flow oxygen, and prepare for potential intubation. Monitor ABG and lactate levels.",
+    "injury_type": "Burn"
+  },
+  {
+    "id": 474,
+    "title": "Stab Wound Protocol",
+    "summary": "Transfer and referral guidelines.",
+    "details": "Apply sterile dressing, initiate tetanus prophylaxis. Use splint or immobilization where appropriate.",
+    "injury_type": "Penetrating Trauma"
+  },
+  {
+    "id": 475,
+    "title": "Elbow Injury Protocol",
+    "summary": "Emergency airway and resuscitation techniques.",
+    "details": "If GCS <8, intubate. Initiate seizure prophylaxis, monitor ICP and cerebral perfusion pressure closely.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 476,
+    "title": "Orbital Fracture Protocol",
+    "summary": "Emergency airway and resuscitation techniques.",
+    "details": "Administer IV fluids, analgesics, and prophylactic antibiotics. Monitor vitals and reassess every 15 minutes.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 477,
+    "title": "Compartment Syndrome Protocol",
+    "summary": "Neurovascular assessment and monitoring.",
+    "details": "Insert Foley catheter and NG tube as indicated. Maintain spinal precautions and monitor for neurological changes.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 478,
+    "title": "Smoke Inhalation Protocol",
+    "summary": "Initial evaluation and stabilization protocol.",
+    "details": "Prepare for OR if unstable. Consult trauma, ortho, or neuro teams depending on injury site.",
+    "injury_type": "Respiratory"
+  },
+  {
+    "id": 479,
+    "title": "Hip Dislocation Protocol",
+    "summary": "Emergency airway and resuscitation techniques.",
+    "details": "Administer IV fluids, analgesics, and prophylactic antibiotics. Monitor vitals and reassess every 15 minutes.",
+    "injury_type": "Pelvis"
+  },
+  {
+    "id": 480,
+    "title": "Spinal Cord Injury Protocol",
+    "summary": "Transfer and referral guidelines.",
+    "details": "Prepare for OR if unstable. Consult trauma, ortho, or neuro teams depending on injury site.",
+    "injury_type": "Spine"
+  },
+  {
+    "id": 481,
+    "title": "Traumatic Brain Injury Protocol",
+    "summary": "Transfer and referral guidelines.",
+    "details": "Use ultrasound (FAST) to identify internal bleeding. Activate massive transfusion protocol if required.",
+    "injury_type": "Head"
+  },
+  {
+    "id": 482,
+    "title": "Kidney Injury Protocol",
+    "summary": "Emergency airway and resuscitation techniques.",
+    "details": "Perform physical assessment, initiate ABCs, obtain relevant imaging and labs. Begin resuscitation as needed.",
+    "injury_type": "Abdomen"
+  },
+  {
+    "id": 483,
+    "title": "Clavicle Fracture Protocol",
+    "summary": "Neurovascular assessment and monitoring.",
+    "details": "Prepare for OR if unstable. Consult trauma, ortho, or neuro teams depending on injury site.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 484,
+    "title": "Crush Injury Protocol",
+    "summary": "Imaging and follow-up strategies.",
+    "details": "Document time of injury, mechanism, and initial findings. Communicate with receiving facility for transfer.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 485,
+    "title": "Clavicle Fracture Protocol",
+    "summary": "Imaging and follow-up strategies.",
+    "details": "Elevate affected limb, apply cold compress, and initiate pain management protocol. Avoid delays in intervention.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 486,
+    "title": "Eclampsia Protocol",
+    "summary": "Wound care and infection prevention.",
+    "details": "Administer IV fluids, analgesics, and prophylactic antibiotics. Monitor vitals and reassess every 15 minutes.",
+    "injury_type": "Obstetric"
+  },
+  {
+    "id": 487,
+    "title": "Elbow Injury Protocol",
+    "summary": "Initial evaluation and stabilization protocol.",
+    "details": "Insert Foley catheter and NG tube as indicated. Maintain spinal precautions and monitor for neurological changes.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 488,
+    "title": "Eclampsia Protocol",
+    "summary": "Analgesia and sedation management plan.",
+    "details": "If GCS <8, intubate. Initiate seizure prophylaxis, monitor ICP and cerebral perfusion pressure closely.",
+    "injury_type": "Obstetric"
+  },
+  {
+    "id": 489,
+    "title": "Electrical Burn Protocol",
+    "summary": "Pharmacologic and non-pharmacologic interventions.",
+    "details": "Insert Foley catheter and NG tube as indicated. Maintain spinal precautions and monitor for neurological changes.",
+    "injury_type": "Burn"
+  },
+  {
+    "id": 490,
+    "title": "Traumatic Brain Injury Protocol",
+    "summary": "Initial evaluation and stabilization protocol.",
+    "details": "Insert Foley catheter and NG tube as indicated. Maintain spinal precautions and monitor for neurological changes.",
+    "injury_type": "Head"
+  },
+  {
+    "id": 491,
+    "title": "Dental Trauma Protocol",
+    "summary": "Emergency airway and resuscitation techniques.",
+    "details": "Elevate affected limb, apply cold compress, and initiate pain management protocol. Avoid delays in intervention.",
+    "injury_type": "Head"
+  },
+  {
+    "id": 492,
+    "title": "Wrist Fracture Protocol",
+    "summary": "Initial evaluation and stabilization protocol.",
+    "details": "Prepare for OR if unstable. Consult trauma, ortho, or neuro teams depending on injury site.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 493,
+    "title": "Elbow Injury Protocol",
+    "summary": "Emergency airway and resuscitation techniques.",
+    "details": "Elevate affected limb, apply cold compress, and initiate pain management protocol. Avoid delays in intervention.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 494,
+    "title": "Wrist Fracture Protocol",
+    "summary": "Operative vs. non-operative management criteria.",
+    "details": "If GCS <8, intubate. Initiate seizure prophylaxis, monitor ICP and cerebral perfusion pressure closely.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 495,
+    "title": "Esophageal Injury Protocol",
+    "summary": "Operative vs. non-operative management criteria.",
+    "details": "Administer IV fluids, analgesics, and prophylactic antibiotics. Monitor vitals and reassess every 15 minutes.",
+    "injury_type": "GI"
+  },
+  {
+    "id": 496,
+    "title": "Frostbite Protocol",
+    "summary": "Analgesia and sedation management plan.",
+    "details": "If GCS <8, intubate. Initiate seizure prophylaxis, monitor ICP and cerebral perfusion pressure closely.",
+    "injury_type": "Extremity"
+  },
+  {
+    "id": 497,
+    "title": "Esophageal Injury Protocol",
+    "summary": "Analgesia and sedation management plan.",
+    "details": "Prepare for OR if unstable. Consult trauma, ortho, or neuro teams depending on injury site.",
+    "injury_type": "GI"
+  },
+  {
+    "id": 498,
+    "title": "Spleen Injury Protocol",
+    "summary": "Transfer and referral guidelines.",
+    "details": "Insert Foley catheter and NG tube as indicated. Maintain spinal precautions and monitor for neurological changes.",
+    "injury_type": "Abdomen"
+  },
+  {
+    "id": 499,
+    "title": "Facial Trauma Protocol",
+    "summary": "Wound care and infection prevention.",
+    "details": "Apply sterile dressing, initiate tetanus prophylaxis. Use splint or immobilization where appropriate.",
+    "injury_type": "Head"
+  },
+  {
+    "id": 500,
+    "title": "Scalp Laceration Protocol",
+    "summary": "Neurovascular assessment and monitoring.",
+    "details": "Insert Foley catheter and NG tube as indicated. Maintain spinal precautions and monitor for neurological changes.",
+    "injury_type": "Head"
+  },
+  {
+    "title": "Test Head Trauma",
+    "content": "Check pupil reactivity.",
+    "injuryType": "Head Trauma"
+  }
+]
