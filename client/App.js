@@ -15,7 +15,7 @@ function App() {
     const fuseRef = useRef(null);
 
     useEffect(() => {
-        fetch('/api/guidelines')
+        fetch('a/api/guidelines')
             .then((res) => res.json())
             .then((data) => {
                 console.log('🔥 Loaded guidelines:', data);
