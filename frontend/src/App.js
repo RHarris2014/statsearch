@@ -15,7 +15,7 @@ function App() {
     const fuseRef = useRef(null);
 
     useEffect(() => {
-        fetch('a/api/guidelines')
+        fetch('https://statsearch-production.up.railway.app/api/guidelines')
             .then((res) => res.json())
             .then((data) => {
                 console.log('🔥 Loaded guidelines:', data);
